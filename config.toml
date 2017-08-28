@@ -1,4 +1,4 @@
-baseURL = "http://example.com"
+baseURL = "http://www.mathcs.emory.edu/~brosset/scicomp/"
 languageCode = "en-us"
 title = "Emory Scientific Computing Group"
 theme = "minimal"

@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/posts/new-website/</loc>
+    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/posts/new-website/</loc>
     <lastmod>2017-08-28T10:43:16-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/projects/test-project/</loc>
+    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/projects/test-project/</loc>
     <lastmod>2017-08-28T09:59:16-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/schedule/</loc>
+    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/schedule/</loc>
     <lastmod>2017-08-28T09:49:04-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/people/</loc>
+    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/people/</loc>
     <lastmod>2017-08-28T09:35:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/</loc>
     <lastmod>2017-08-28T09:27:03-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/posts/</loc>
+    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/posts/</loc>
     <lastmod>2017-08-28T10:43:16-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/projects/</loc>
+    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/projects/</loc>
     <lastmod>2017-08-28T09:59:16-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/tags/</loc>
     <priority>0</priority>
   </url>
   
