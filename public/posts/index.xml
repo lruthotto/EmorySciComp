@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Emory Scientific Computing Group</title>
+    <link>http://example.com/posts/</link>
+    <description>Recent content in Posts on Emory Scientific Computing Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Aug 2017 10:43:16 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Website</title>
+      <link>http://example.com/posts/new-website/</link>
+      <pubDate>Mon, 28 Aug 2017 10:43:16 -0400</pubDate>
+      
+      <guid>http://example.com/posts/new-website/</guid>
+      <description>Welcome to Scientific Computing&amp;rsquo;s new website. We&amp;rsquo;ve move to Hugo to</description>
+    </item>
+    
+  </channel>
+</rss>
