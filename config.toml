@@ -1,4 +1,4 @@
-baseURL = "http://www.mathcs.emory.edu/~brosset/scicomp/"
+baseURL = "http://www.mathcs.emory.edu/Research/Area/ScientificComputing/"
 languageCode = "en-us"
 title = "Emory Scientific Computing Group"
 theme = "minimal"
