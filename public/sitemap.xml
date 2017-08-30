@@ -3,49 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/posts/new-website/</loc>
-    <lastmod>2017-08-28T10:43:16-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/projects/test-project/</loc>
-    <lastmod>2017-08-28T09:59:16-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/schedule/</loc>
+    <loc>http://www.mathcs.emory.edu/Research/Area/ScientificComputing/schedule/</loc>
     <lastmod>2017-08-28T09:49:04-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/people/</loc>
+    <loc>http://www.mathcs.emory.edu/Research/Area/ScientificComputing/people/</loc>
     <lastmod>2017-08-28T09:35:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/</loc>
+    <loc>http://www.mathcs.emory.edu/Research/Area/ScientificComputing/</loc>
     <lastmod>2017-08-28T09:27:03-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/categories/</loc>
+    <loc>http://www.mathcs.emory.edu/Research/Area/ScientificComputing/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/posts/</loc>
-    <lastmod>2017-08-28T10:43:16-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/projects/</loc>
-    <lastmod>2017-08-28T09:59:16-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.mathcs.emory.edu/~brosset/scicomp/tags/</loc>
+    <loc>http://www.mathcs.emory.edu/Research/Area/ScientificComputing/tags/</loc>
     <priority>0</priority>
   </url>
   

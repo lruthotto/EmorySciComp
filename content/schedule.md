@@ -11,55 +11,40 @@ Some food (e.g., pizza) will normally be provided once every month, and particip
 First year graduate students and undergraduates interested in scientific computing are welcome to attend.
 (A presentation is not required.)
 
-For more information contact Michele Benzi, Jim Nagy, Lars Ruthotto, or Alessandro Veneziani
+For more information contact [Michele Benzi](http://www.mathcs.emory.edu/~benzi), [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), or [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale).
 
 
 ### Fall 2017 Schedule
 
+
 #### August
 
-```text
-25. meet and greet
-```
+* 25. meet and greet
 
 #### September
 
-```text
-    1. Alexander Viguerie 
-
-    8. Clarissa Garvey and Yunyi Hu 
-
-    15. 
-
-    22. Massimiliano Lupo Pasini
-
-    29. Sofia Guzzetti 
-```
+* 1. Alexander Viguerie 
+* 8. Clarissa Garvey and Yunyi Hu 
+* 15. 
+* 22. [Misha Kilmer](http://emerald.tufts.edu/~mkilme01/), Tufts University
+* 29. Sofia Guzzetti 
 
 #### October
 
-```text
-    6. 
-
-    13. 
-
-    20. 
-
-    27. 
-```
+* 6. Massimiliano Lupo Pasini
+* 13. 
+* 20. 
+* 27. 
 
 #### November
 
-```text
-    3. 
-
-    10. 
-
-    17. 
-```
+* 3. 
+* 10. 
+* 17. 
 
 #### December
 
-```text
-    1.
-```
+* 1.
+
+
+
