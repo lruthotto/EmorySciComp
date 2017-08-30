@@ -37,7 +37,7 @@ draft: false
 - Chang Meng
 - Derek Onken
 - Massimiliano Lupo Pasini
-- Blair Rosetti
+- [Blair Rossetti](http://blairrossetti.com/)
 - Alex Viguerie
 - Huijuan Xu
 
