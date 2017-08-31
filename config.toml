@@ -51,10 +51,10 @@ theme = "minimal"
 #    name = "envelope-o"
 #    weight = 1
 
-#[[menu.icon]]
-#    url = "https://github.com/username/"
-#    name = "github"
-#    weight = 2
+[[menu.icon]]
+    url = "https://github.com/lruthotto/EmorySciComp"
+    name = "github"
+    weight = 2
 
 #[[menu.icon]]
 #    url = "https://twitter.com/username/"
