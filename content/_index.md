@@ -15,9 +15,10 @@ Scientific computing research involves the development of fast, reliable numeric
 - Numerical Partial Differential Equations
 - Numerical Methods for Inverse Problems
 - Applications:
-    - Image Processing (restoration, registration and super-resolution)
+    - Image Processing (restoration, registration, and super-resolution)
     - Computational Fluid Dynamics
     - Complex Networks
+    - Machine Learning
 - Parallel, Distributed Computing
 - History of Numerical Analysis
 
