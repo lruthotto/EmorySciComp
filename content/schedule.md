@@ -25,7 +25,7 @@ For more information contact [Michele Benzi](http://www.mathcs.emory.edu/~benzi)
 
 * 1. Alexander Viguerie 
 * 8. Clarissa Garvey and Yunyi Hu 
-* 15. [Bora Ucar](http://perso.ens-lyon.fr/bora.ucar/) (LIP-ENS-
+* 15. [Bora Ucar](http://perso.ens-lyon.fr/bora.ucar/) (LIP-ENS-LYON)
 * 22. [Misha Kilmer](http://emerald.tufts.edu/~mkilme01/) (Tufts University)
 * 29. Sofia Guzzetti 
 
