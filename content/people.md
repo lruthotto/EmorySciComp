@@ -36,7 +36,7 @@ draft: false
 - Ru Huang
 - Chang Meng
 - Derek Onken
-- Massimiliano Lupo Pasini
+- [Massimiliano Lupo Pasini](http://www.mathcs.emory.edu/~mlupopa/)
 - [Blair Rossetti](http://blairrossetti.com/)
 - Alex Viguerie
 - Huijuan Xu
