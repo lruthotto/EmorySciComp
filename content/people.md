@@ -43,6 +43,7 @@ draft: false
 
 ### Visiting Graduate Students
 - Ludovico Bruni Bruno
+- Zixuan Chen
 
 ### Undergraduate Honors Students
 - Huiying Zhu
