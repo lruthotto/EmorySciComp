@@ -5,7 +5,7 @@ theme = "minimal"
 #disqusShortname = "username" # delete this to disable disqus comments
 
 [params]
-    author = "Scientific Computing"
+    author = "Emory Scientific Computing"
     description = "Emory University Scientific Computing Group"
 #    githubUsername = "#"
     accent = "#002878"
@@ -29,7 +29,7 @@ theme = "minimal"
 
 [[menu.main]]
     url = "/schedule/"
-    name = "Schedule"
+    name = "Seminar"
     weight = 3
 
 # [[menu.main]]
