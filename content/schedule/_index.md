@@ -25,7 +25,7 @@ For more information contact [Michele Benzi](http://www.mathcs.emory.edu/~benzi)
 
 * 1. Alexander Viguerie 
 * 8. Clarissa Garvey and Yunyi Hu 
-* 15. [Bora Ucar](http://perso.ens-lyon.fr/bora.ucar/) (LIP-ENS-LYON)
+* 15. [Bora Ucar](http://perso.ens-lyon.fr/bora.ucar/) (LIP-ENS-LYON), [*On the Birkhoff--von Neumann decomposition and its use in solving sparse linear systems*](http://www.mathcs.emory.edu/seminar-flyers/seminar-01161.pdf)
 * 22. [Misha Kilmer](http://emerald.tufts.edu/~mkilme01/) (Tufts University)
 * 29. Sofia Guzzetti 
 
