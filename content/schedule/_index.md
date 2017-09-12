@@ -26,14 +26,14 @@ For more information contact [Michele Benzi](http://www.mathcs.emory.edu/~benzi)
 * 1. Alexander Viguerie 
 * 8. Clarissa Garvey and Yunyi Hu 
 * 15. [Bora Ucar](http://perso.ens-lyon.fr/bora.ucar/) (LIP-ENS-LYON), [*On the Birkhoff--von Neumann decomposition and its use in solving sparse linear systems*](http://www.mathcs.emory.edu/seminar-flyers/seminar-01161.pdf)
-* 22. [Misha Kilmer](http://emerald.tufts.edu/~mkilme01/) (Tufts University)
+* 22. [Misha Kilmer](http://emerald.tufts.edu/~mkilme01/) (Tufts University), *A new tensor framework - theory and applications*
 * 29. Sofia Guzzetti 
 
 #### October
 
-* 6. Massimiliano Lupo Pasini
+* 6.  [Arvind Krishna Saibaba](http://www4.ncsu.edu/~asaibab/)
 * 13. Samy Wu Fung
-* 20. 
+* 20. Massimiliano Lupo Pasini 
 * 27. 
 
 #### November
