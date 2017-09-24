@@ -8,7 +8,7 @@
         <div class="text-justify">{{ .Content }}
 			{{ range .Data.Pages }}
 			<h3 >{{.Title}}</h3>
-			{{ if isset .Params "img"}}
+			{{if isset .Params "img"}}
 				<div class="researchImg"> <img src="../img/{{ .Params.img }}" width="200"></div>
 			{{end}}
 			<div >{{.Content}}</div>

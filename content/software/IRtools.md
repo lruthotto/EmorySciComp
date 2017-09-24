@@ -1,6 +1,6 @@
 ---
 title: "IRtools: MATLAB Package for Large Scale Inverse Problems"
-date: 2017-09-12T09:59:16-04:00
+date: 2017-09-23T09:59:16-04:00
 draft: false
 ---
 
@@ -16,5 +16,5 @@ large-scale inverse problems.
 
 PI: [James Nagy](http://www.mathcs.emory.edu/~nagy)
 
-This is joint work with Silvia Gazzola, Univesity of Bath, and
+This is joint work with Silvia Gazzola, University of Bath, and
 Per Christian Hansen, Technical University of Denmark.

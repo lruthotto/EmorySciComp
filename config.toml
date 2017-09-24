@@ -28,24 +28,34 @@ theme = "minimal"
     weight = 2
 
 [[menu.main]]
+    url = "/software/"
+    name = "Software"
+    weight = 3
+
+[[menu.main]]
     url = "/grad/"
     name = "Graduate"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     url = "/teaching/"
     name = "Teaching"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     url = "/schedule/"
     name = "Seminar"
-    weight = 5
+    weight = 6
+
+[[menu.main]]
+    url = "/jobs/"
+    name = "Jobs"
+    weight = 7
 
 [[menu.main]]
     url = "/people/"
     name = "People"
-    weight = 6
+    weight = 8
 
 
 # Social icons to be shown on the right-hand side of the navigation bar
