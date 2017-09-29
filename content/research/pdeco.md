@@ -1,5 +1,5 @@
 ---
-title: "Efficient Algorithms for Solving Big Data PDE-Parameter Estimation Problems"
+title: "Efficient Algorithms for PDE-Parameter Estimation"
 date: 2017-09-12T09:59:16-04:00
 draft: false
 img: "pdeco.png"

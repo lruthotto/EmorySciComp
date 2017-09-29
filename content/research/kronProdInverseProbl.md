@@ -3,6 +3,7 @@ title: "Algorithms for Inverse Problems that Exploit Kronecker Product and
 Tensor Structures"
 date: 2017-09-11T09:59:16-04:00
 draft: false
+img: "PSFmesh.jpg"
 ---
 
 

@@ -25,6 +25,7 @@ isCurrent: true
 ### Visiting Graduate Students
 - Ludovico Bruni Bruno
 - Zixuan Chen
+- Xiangxi Gao
 
 ### Undergraduate Honors Students
 - Huiying Zhu
