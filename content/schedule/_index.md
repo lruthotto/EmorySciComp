@@ -31,10 +31,10 @@ For more information contact [Michele Benzi](http://www.mathcs.emory.edu/~benzi)
 
 #### October
 
-* 6.  [Arvind Krishna Saibaba](http://www4.ncsu.edu/~asaibab/) (NC State University) *D-optimal Experimental Design for Bayesian Inverse Problems*
+* 6.  [Arvind Krishna Saibaba](http://www4.ncsu.edu/~asaibab/) (NC State University) [*D-optimal Experimental Design for Bayesian Inverse Problems*](http://www.mathcs.emory.edu/seminar-flyers/seminar-01169.pdf)
 * 13. Samy Wu Fung
-* 20. Massimiliano Lupo Pasini 
-* 27. 
+* 20. [Xianqi Li](https://people.clas.ufl.edu/xianqili/) (University of Florida)
+* 27. Massimiliano Lupo Pasini 
 
 #### November
 

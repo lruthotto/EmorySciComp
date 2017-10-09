@@ -8,8 +8,16 @@
         <div class="text-justify">{{ .Content }}
 			{{ range .Data.Pages }}
 					<h3 >{{.Title}}</h3>
-
-					{{.Content}}
+					{{ if isset .Params "contact"}}
+						<p><strong>Contact:</strong> <a href="mailto:{{ .Params.contact }}">{{ .Params.contact }}</a></p>
+					{{end}}
+					{{ if isset .Params "deadline"}}
+						<p><strong>Deadline info:</strong> {{ .Params.deadline }}</p>
+					{{end}}
+					{{ if isset .Params "blurb"}}
+						{{ .Params.blurb }}
+						<a href="{{.Permalink}}">read more</a>
+					{{end}}
 	    	{{ end }}
 		</div>
     </article>
