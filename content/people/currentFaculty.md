@@ -24,7 +24,6 @@ isCurrent: true
 -  James Nance
 
 ### Postdocs
-- Boyi Yang
 - Adrien Lefieux
 
 

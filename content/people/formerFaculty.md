@@ -20,6 +20,7 @@ isCurrent: false
 - Jianjun Zhang
 
 ### Former Postdocs
+- Boyi Yang (2015-2017)
 - Gaetano Esposito (2014-2015)
 - Leandro Gryngarten (2013-2014)
 - Lina Merchan (2013-2014)
