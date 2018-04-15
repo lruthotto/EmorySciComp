@@ -22,13 +22,22 @@ isCurrent: true
 - Alex Viguerie
 - Huijuan Xu
 
+### Master Students
+- Ashley Shin
+
 ### Visiting Graduate Students
 - Ludovico Bruni Bruno
 - Zixuan Chen
 - Xiangxi Gao
+- Nicola Ferro
+- Yves Barbosa
+
+### Visiting Masters Students
+- Sara Bridio
+- Jiena Hou
 
 ### Undergraduate Honors Students
-- Huiying Zhu
+- Wenda Zheng
 
 
 

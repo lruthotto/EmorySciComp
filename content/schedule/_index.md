@@ -14,8 +14,35 @@ First year graduate students and undergraduates interested in scientific computi
 
 For more information contact [Michele Benzi](http://www.mathcs.emory.edu/~benzi), [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), or [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale).
 
-### Fall 2017 Schedule
+### Spring 2018 Schedule
 
+#### January
+* 19. Raya Horesh (IBM Research AI, TJ Watson Research Center) [Building Energy - Modeling, Optimization and Optimal Control](http://www.mathcs.emory.edu/site/events/general-information/seminar.php?SEMID=1191)
+* 26. Johannes Vorwerk (SCI Institute Utah) [New methods in EEG/MEG source analysis](http://www.mathcs.emory.edu/site/events/general-information/seminar.php?SEMID=1192)
+
+#### February
+* 1. 4pm in W301: **Colloquium:** [**Andreas Mang**](https://www.math.uh.edu/~andreas/) (University of Houston) [*Computational mathematics meets medicine: Formulations, numerics, and parallel computing*](http://www.mathcs.emory.edu/seminar-flyers/seminar-01207.pdf)
+* 5. 4pm in W301: **Colloquium** [**Kimon Fountoulakis**](http://www1.icsi.berkeley.edu/~kfount/) (University of California, Berkeley) [*Optimization for scalable graph analytics*](http://www.mathcs.emory.edu/site/events/general-information/seminar.php?SEMID=1208)
+* 8. 4pm in W301: **Colloquium** [**Yuanzhe Xi**](http://www-users.cs.umn.edu/~yxi/) (University of Minnesota) [*Fast and stable algorithms for large-scale computation*](http://www.mathcs.emory.edu/site/events/general-information/seminar.php?SEMID=1209)
+* 12. 4pm W301: **Colloquium**: [**Simona Perotto**](http://www1.mate.polimi.it/simona/index.html) (Politecnico di Milano) [W*hen the mesh is important: The role of anisotropic mesh adaptation in numerical modeling, from crack propagation to topology optimization*](http://www.mathcs.emory.edu/site/events/general-information/seminar.php?SEMID=1206)
+* 13. 4pm W303: **Colloquium**: [**Erin Carson**](https://math.nyu.edu/~erinc/) (Courant Institute, NYU) *Sparse Linear Algebra in the Exascale Era*
+* 23. Lauri Mustonen, *The inverse conductivity problem and how to linearize it*
+* 24. [**Georgia Scientific Computing Symposium**](https://math.gsu.edu/xye/public/gscs/gscs2018.html) at Georgia State
+
+#### March
+* 2. [Eisha Nathan](https://www.cc.gatech.edu/grads/e/enathan3/) (GA Tech)
+* 9. James Nagy
+* 16. *spring break -> no seminar*
+* 23. Nicola Ferro (Politecnico di Milano)
+* 30. 
+
+#### April
+* 5. 3pm E208: **Colloquium:** [**Sherry Li**](http://crd-legacy.lbl.gov/~xiaoye/) (Lawrence Berkeley National Laboratory)
+* 13. Yves Barbosa (Politecnico di Milano)
+* **23 (Monday!) 4pm at W302** Pablo Blanco (Laboratório Nacional de Computação Científica, Petropolis, Brasil) 
+* 27. **Colloquium:** [**Jorge Nocedal**](http://users.iems.northwestern.edu/~nocedal/) (Northwestern University)
+
+### Fall 2017 Schedule
 
 #### August
 
@@ -38,13 +65,14 @@ For more information contact [Michele Benzi](http://www.mathcs.emory.edu/~benzi)
 
 #### November
 
-* 3. 
-* 10. Ganesh Sundaramoorthi (KAUST)
-* 17. 
+* 3. Massimiliano Marrocco-Trischitta
+* 10. Ganesh Sundaramoorthi (KAUST) [*Accelerated Diffeomorphisms for Motion Estimation and Segmentation from Video*](http://www.mathcs.emory.edu/site/events/general-information/seminar.php?SEMID=1175)
+* *16. Special Event: John Nash Documentary, 6pm in W303*
+* 17. SIAM student chapter event
 
 #### December
 
-* 1.
+* 1. Daniel Kovari (Emory Physics)
 
 ### Archived Schedules
 

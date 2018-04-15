@@ -2,6 +2,7 @@
 title: "Bayesian Approaches for Strain Identification from Culture-Independent Samples"
 date: 2017-09-27T09:59:16-04:00
 draft: false
+weight: 9
 img: "strainRecon.jpg"
 ---
 

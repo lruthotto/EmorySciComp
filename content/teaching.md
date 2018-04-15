@@ -28,9 +28,12 @@ Our group highly values teaching and offers a comprehensive set of courses on sc
 
 #### Selected Special Topics Graduate-Level Courses
 
+1. Data Assimilation (Spring 2018)
+1. [Numerical Methods for Deep Learning](http://www.mathcs.emory.edu/~lruthot/courses/math789r-sp18.html) (Spring 2018)
 1. Structured Matrix Computation (Fall 2017)
 1. Bayesian Inverse Problems (Spring 2016)
 1. Advanced Numerical Linear Algebra Methods with Applications 
+1. Fluid Dynamics
 
 
 

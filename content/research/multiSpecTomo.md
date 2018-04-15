@@ -2,6 +2,7 @@
 title: "Numerical Methods for Multispectral Tomographic Image Reconstruction"
 date: 2017-09-10T09:59:16-04:00
 draft: false
+weight: 8
 img: "TomoIllustration.jpg"
 ---
 

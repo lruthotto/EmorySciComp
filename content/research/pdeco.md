@@ -2,6 +2,7 @@
 title: "Efficient Algorithms for PDE-Parameter Estimation"
 date: 2017-09-12T09:59:16-04:00
 draft: false
+weight: 3
 img: "pdeco.png"
 ---
 

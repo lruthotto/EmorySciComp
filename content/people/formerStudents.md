@@ -21,9 +21,13 @@ isCurrent: false
 - Helen Schomburg
 
 ### Former  Honors Students
+- Siqi Xuo, BS 2017
+- Quiny She, BS 2017
+- Shuan Gao, BS 2017
 - Yiwen Guo, BS 2017
 - Raul Platero, BS 2017
 - Hanyong Wu, BS 2017
+- Huiying Zhu, BS 2017
 - Claire Lin, BS 2016
 - Lu Lin, BS 2016
 - Chang Meng, BS 2016
