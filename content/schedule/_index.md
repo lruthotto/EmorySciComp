@@ -34,11 +34,12 @@ For more information contact [Michele Benzi](http://www.mathcs.emory.edu/~benzi)
 * 9. James Nagy
 * 16. *spring break -> no seminar*
 * 23. Nicola Ferro (Politecnico di Milano)
-* 30. 
+* 30. no seminar
 
 #### April
 * 5. 3pm E208: **Colloquium:** [**Sherry Li**](http://crd-legacy.lbl.gov/~xiaoye/) (Lawrence Berkeley National Laboratory)
-* 13. Yves Barbosa (Politecnico di Milano)
+* 13. no seminar
+* 20. Yves Barbosa (Politecnico di Milano)
 * **23 (Monday!) 4pm at W302** Pablo Blanco (Laboratório Nacional de Computação Científica, Petropolis, Brasil) 
 * 27. **Colloquium:** [**Jorge Nocedal**](http://users.iems.northwestern.edu/~nocedal/) (Northwestern University)
 
