@@ -43,6 +43,9 @@ For more information contact [Michele Benzi](http://www.mathcs.emory.edu/~benzi)
 * **23 (Monday!) 4pm at W302** Pablo Blanco (Laboratório Nacional de Computação Científica, Petropolis, Brasil) 
 * 27. **Colloquium:** [**Jorge Nocedal**](http://users.iems.northwestern.edu/~nocedal/) (Northwestern University)
 
+#### May
+* 4. 2pm in W301: [Yi Hong](http://cobweb.cs.uga.edu/~yihong/) (University of Georgia) [*Computational and Predictive Models for Brain Imaging Studies*](http://www.mathcs.emory.edu/site/events/general-information/seminar.php?SEMID=1236)
+
 ### Fall 2017 Schedule
 
 #### August
