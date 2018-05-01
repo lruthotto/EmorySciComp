@@ -11,6 +11,7 @@ isCurrent: false
 - [Fatemeh Panjeh Ali Beik](http://beik.faculty.vru.ac.ir)
 - Margaret Callahan
 - [Ernesto Estrada](http://www.estradalab.org)
+- Paraskevi Fika
 - Bao Liang
 - [Jan Modersitzki](http://www.mic.uni-luebeck.de/people/jan-modersitzki.html)
 - [Maxim Olshanskii](http://www.math.uh.edu/~molshan/)
