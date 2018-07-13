@@ -1,6 +1,6 @@
 ---
 title: "People"
-date: 2017-08-28T09:35:08-04:00
+date: 2018-07-13T10:35:08-04:00
 draft: false
 align: "left"
 isCurrent: true
@@ -14,6 +14,7 @@ isCurrent: true
 - [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot)
 - [Vaidy Sunderam](http://www.mathcs.emory.edu/~vss)
 - [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale)
+- [Yuanzhe Xi](http://www-users.cs.umn.edu/~yxi/)
 
 ### Adjunct Faculty
 - [Mario Arioli](http://www.numerical.rl.ac.uk/people/marioli/marioli.html)

@@ -21,6 +21,8 @@ isCurrent: false
 - Helen Schomburg
 
 ### Former  Honors Students
+- Wenda Zheng, BS 2018
+- Huiying Zhu, BS 2017
 - Siqi Xuo, BS 2017
 - Quiny She, BS 2017
 - Shuan Gao, BS 2017

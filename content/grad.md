@@ -26,7 +26,7 @@ Emory's graduate student community is diverse with plenty of student organizatio
 
 ### Application Process and Degree Requirements
 
-The [Laney Graduate School](http://www.gs.emory.edu/) accepts applications once a year for admission in the Fall. Application deadlines and detailed information about the application process can be found [here](http://www.gs.emory.edu/admissions/application.html). For additional information related to Scientific Computing, please contact [Michele Benzi](http://www.mathcs.emory.edu/~benzi), [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), or [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale).
+The [Laney Graduate School](http://www.gs.emory.edu/) accepts applications once a year for admission in the Fall. Application deadlines and detailed information about the application process can be found [here](http://www.gs.emory.edu/admissions/application.html). For additional information related to Scientific Computing, please contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale), or [Yuanzhe Xi](http://www-users.cs.umn.edu/~yxi/).
 
 
 The degree requirements vary by program and are listed [here](http://www.mathcs.emory.edu/site/graduate/degrees/).
@@ -36,7 +36,7 @@ The degree requirements vary by program and are listed [here](http://www.mathcs.
 
 Upon completing their degree, our graduates are highly competitive and have built successful careers, e.g., as
 
-- postdoc (e.g., Tufts University, University of Maryland, University of Strathclyde)
+- postdoc (e.g., UT Austin, Tufts University, University of Maryland, University of Strathclyde)
 - faculty (e.g., Virginia Tech, University of West Florida) 
 - corporate researcher (e.g., Google, IBM, Intel, Siemens, S&P, Ernst&Young, JP Morgan Chase, Wolfram Research)
 - scientists in national laboratories (e.g., Lawrence Livermore, Lawrence Berkeley, Los Alamos, Argonne, Oak Ridge) 

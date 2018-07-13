@@ -1,6 +1,6 @@
 ---
 title: "People"
-date: 2017-08-28T09:35:08-04:00
+date: 2018-07-13T09:35:08-04:00
 draft: false
 align: "left"
 isCurrent: false
@@ -15,6 +15,7 @@ isCurrent: false
 - Bao Liang
 - [Jan Modersitzki](http://www.mic.uni-luebeck.de/people/jan-modersitzki.html)
 - [Maxim Olshanskii](http://www.math.uh.edu/~molshan/)
+- [Simona Perotto](http://www1.mate.polimi.it/~simona/)
 - [Annalisa Quaini](http://math.uh.edu/~quaini/)
 - [Leo Rebholz](http://www.math.clemson.edu/~rebholz/)
 - [Zdenek Strakos](http://www.cs.cas.cz/~strakos)
@@ -36,6 +37,10 @@ isCurrent: false
 - [Bora Ucar](http://perso.ens-lyon.fr/bora.ucar/) (2005--2006)
 
 ### Former Graduate Students
+- Clarissa Garvey, PhD 2018
+- Alex Viguerie, PhD 2018
+- [Massimiliano Lupo Pasini](http://www.mathcs.emory.edu/~mlupopa/), PhD 2018
+- James Lincoln Herring, PhD 2018
 - Isabel Chen, PhD 2016
 - Huanhuan Yang, PhD 2015
 - Boyi Yang, PhD 2015
