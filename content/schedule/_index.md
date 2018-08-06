@@ -29,7 +29,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 5.
 * 12.
 * 19.
-* 26.
+* 26. [Braxton Osting](https://www.math.utah.edu/~osting/) (University of Utah)
 
 #### November 
 * 2. 
