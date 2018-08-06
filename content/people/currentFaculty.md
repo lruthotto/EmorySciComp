@@ -14,7 +14,7 @@ isCurrent: true
 - [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot)
 - [Vaidy Sunderam](http://www.mathcs.emory.edu/~vss)
 - [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale)
-- [Yuanzhe Xi](http://www-users.cs.umn.edu/~yxi/)
+- [Yuanzhe Xi](http://www.mathcs.emory.edu/~yxi26/)
 
 ### Adjunct Faculty
 - [Mario Arioli](http://www.numerical.rl.ac.uk/people/marioli/marioli.html)
