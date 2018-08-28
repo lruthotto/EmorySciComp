@@ -28,12 +28,12 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 #### October
 * 5.
 * 12.
-* 19.
+* 19. [Hao-Min Zhou](http://people.math.gatech.edu/~hmzhou/) (GA tech)
 * 26. [Braxton Osting](https://www.math.utah.edu/~osting/) (University of Utah)
 
 #### November 
 * 2. 
-* 9. 
+* 9. Blair Rossetti
 * 16.
 * 23. NO MEETING - Thanksgiving 
 
