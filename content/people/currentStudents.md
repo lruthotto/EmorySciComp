@@ -11,7 +11,7 @@ isCurrent: true
 - Ricardo Bonilla
 - [Samy Wu Fung](https://sites.google.com/site/samywufung/)
 - Xiangxi Gao
-- [Sofia Guzzetti](http://www.mathcs.emory.edu/~sguzze2/)
+- [Sofia Guzzetti](https://sites.google.com/view/sofiaguzzetti )
 - Yunyi Hu
 - Ru Huang
 - Kelvin Kan
