@@ -8,7 +8,6 @@ isCurrent: true
 
 ### Graduate Students
 - Alessandro Barone
-- Ricardo Bonilla
 - [Samy Wu Fung](https://sites.google.com/site/samywufung/)
 - Xiangxi Gao
 - [Sofia Guzzetti](https://sites.google.com/view/sofiaguzzetti )
