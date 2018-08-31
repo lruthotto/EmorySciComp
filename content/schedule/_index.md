@@ -20,7 +20,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 31. Meet and greet + Faculty research highlights I
 
 #### September
-* 7. Faculty research highlights II
+* 7. Faculty research highlights II + group photo
 * 14.
 * 21.
 * 28.
