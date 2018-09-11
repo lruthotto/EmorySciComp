@@ -21,7 +21,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 
 #### September
 * 7. Faculty research highlights II + group photo
-* 14.
+* 14. Lars Ruthotto
 * 21.
 * 28.
 
@@ -30,6 +30,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 12.
 * 19. [Hao-Min Zhou](http://people.math.gatech.edu/~hmzhou/) (GA tech)
 * 26. [Braxton Osting](https://www.math.utah.edu/~osting/) (University of Utah)
+* 31. [Dave Yuen](https://scholar.google.com/citations?user=Z63m_ZIAAAAJ&hl=en)
 
 #### November 
 * 2. 
@@ -38,7 +39,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 23. NO MEETING - Thanksgiving 
 
 #### December 
-* 7. 
+* 7. [Wenjing Liao](https://people.math.gatech.edu/~wliao60/) (GA tech)
 
 ### Archived Schedules
 
