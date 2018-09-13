@@ -23,7 +23,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 7. Faculty research highlights II + group photo
 * 14. Sofia Guzzetti and Alessandro Barone
 * 21.
-* 28.
+* 28. Ru Huang
 
 #### October
 * 5.
