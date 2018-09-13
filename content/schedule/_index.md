@@ -21,7 +21,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 
 #### September
 * 7. Faculty research highlights II + group photo
-* 14. Lars Ruthotto
+* 14. Sofia Guzzetti and Alessandro Barone
 * 21.
 * 28.
 
