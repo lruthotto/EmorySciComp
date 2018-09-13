@@ -30,7 +30,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 12.
 * 19. [Hao-Min Zhou](http://people.math.gatech.edu/~hmzhou/) (GA tech)
 * 26. [Braxton Osting](https://www.math.utah.edu/~osting/) (University of Utah)
-* 31. [Dave Yuen](https://scholar.google.com/citations?user=Z63m_ZIAAAAJ&hl=en)
+* 31. *Colloqium* [Dave Yuen](https://scholar.google.com/citations?user=Z63m_ZIAAAAJ&hl=en) (Columbia University)
 
 #### November 
 * 2. 
