@@ -6,7 +6,7 @@ draft: false
 
 Meetings of the Scientific Computing Group will be held once a week, 2:00--3:00 in N302. The meetings will usually be on Friday, but occasionally we will meet at other times. For specifics, see the schedule below.
 
-Some food (e.g., pizza) will normally be provided once every month, and participants are welcome to bring their own lunch to other meetings. Entertainment will normally consist of a seminar talk.
+Some food (e.g., pizza) will occasionally be provided, and participants are welcome to bring their own lunch to other meetings. Entertainment will normally consist of a seminar talk.
 
 First year graduate students and undergraduates interested in scientific computing are welcome to attend.
 (A presentation is not required.)
@@ -27,7 +27,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 
 #### October
 * 5.
-* 12.
+* 12. Sara Bridio (Politechnico Milano and Emory)
 * 19. [Hao-Min Zhou](http://people.math.gatech.edu/~hmzhou/) (GA tech)
 * 26. [Braxton Osting](https://www.math.utah.edu/~osting/) (University of Utah)
 * 31. **Colloqium:** [Dave Yuen](https://scholar.google.com/citations?user=Z63m_ZIAAAAJ&hl=en) (Columbia University)
