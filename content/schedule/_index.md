@@ -26,7 +26,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 28. Ru Huang
 
 #### October
-* 5.
+* 5.  James Nagy
 * 12. Sara Bridio (Politechnico Milano and Emory)
 * 19. [Hao-Min Zhou](http://people.math.gatech.edu/~hmzhou/) (GA tech)
 * 26. [Braxton Osting](https://www.math.utah.edu/~osting/) (University of Utah)
