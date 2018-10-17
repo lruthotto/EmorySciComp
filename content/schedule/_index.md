@@ -28,12 +28,13 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 #### October
 * 5.  James Nagy
 * 12. Sara Bridio (Politechnico Milano and Emory)
-* 19. [Hao-Min Zhou](http://people.math.gatech.edu/~hmzhou/) (GA tech)
+* 19. [Hao-Min Zhou](http://people.math.gatech.edu/~hmzhou/) (GA tech), [*Optimal Transport on Finite Graphs with Applications*](http://math.emory.edu/events/seminars/seminar.php?SEMID=1259)
+* 26. **non-standard time and place: 10AM Atwood 215** [Marta D'Elia](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?mdelia) (Sandia National Lab), *Nonlocal Models in Computational Science and Engineering*
 * 26. [Braxton Osting](https://www.math.utah.edu/~osting/) (University of Utah), [*Diffusion generated methods for target-valued maps*](http://math.emory.edu/events/seminars/seminar.php?SEMID=1257)
 * 31. **Colloqium:** [Dave Yuen](https://scholar.google.com/citations?user=Z63m_ZIAAAAJ&hl=en) (Columbia University)
 
 #### November 
-* 2. [Xiaojing Ye](https://math.gsu.edu/xye/) (GA State)
+* 2. [Xiaojing Ye](https://math.gsu.edu/xye/) (GA State), [*Decentralized consensus optimization on networks with delayed and stochastic gradients*](http://math.emory.edu/events/seminars/seminar.php?SEMID=1258)
 * 9. Blair Rossetti
 * 16.
 * 23. NO MEETING - Thanksgiving 
