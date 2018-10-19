@@ -36,7 +36,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 #### November 
 * 2. [Xiaojing Ye](https://math.gsu.edu/xye/) (GA State), [*Decentralized consensus optimization on networks with delayed and stochastic gradients*](http://math.emory.edu/events/seminars/seminar.php?SEMID=1258)
 * 9. Blair Rossetti
-* 16.
+* 16. [Eldad Haber](https://sites.google.com/site/ehaberubc/home) (UBC)
 * 23. NO MEETING - Thanksgiving 
 
 #### December 
