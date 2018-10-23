@@ -38,6 +38,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 9. Blair Rossetti
 * 16. [Eldad Haber](https://sites.google.com/site/ehaberubc/home) (UBC)
 * 23. NO MEETING - Thanksgiving 
+* 30.
 
 #### December 
 * 7. [Wenjing Liao](https://people.math.gatech.edu/~wliao60/) (GA tech)
