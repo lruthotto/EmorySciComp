@@ -50,6 +50,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 1. 
 * 8. 
 * 15. 
+* 16. Georgia Scientific Computing Symposium at GA tech
 * 22. 
 
 #### March
