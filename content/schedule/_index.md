@@ -6,8 +6,7 @@ draft: false
 
 Meetings of the Scientific Computing Group will be held once a week, 2:00--3:00 in N302. The meetings will usually be on Friday, but occasionally we will meet at other times. For specifics, see the schedule below. Entertainment will normally consist of a seminar talk.
 
-First year graduate students and undergraduates interested in applied math and scientific computing are welcome to attend.
-(A presentation is not required.)
+First year graduate students and undergraduates interested in applied math and scientific computing are welcome to attend. (A presentation is not required.)
 
 For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale), or [Yuanzhe Xi](http://www-users.cs.umn.edu/~yxi/).
 
@@ -34,12 +33,38 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 #### November 
 * 2. [Xiaojing Ye](https://math.gsu.edu/xye/) (GA State), [*Decentralized consensus optimization on networks with delayed and stochastic gradients*](http://math.emory.edu/events/seminars/seminar.php?SEMID=1258)
 * 9. Blair Rossetti
-* 16. [Eldad Haber](https://sites.google.com/site/ehaberubc/home) (UBC)
+* 16. [Eldad Haber](https://sites.google.com/site/ehaberubc/home) (UBC), [*Convolution neural networks for semantic segmentation*](http://math.emory.edu/seminar-flyers/seminar-01264.pdf)
 * 23. NO MEETING - Thanksgiving 
 * 30.
 
 #### December 
 * 7. [Wenjing Liao](https://people.math.gatech.edu/~wliao60/) (GA tech)
+
+### Spring 2019 Schedule
+
+#### January 
+* 18. 
+* 25. 
+
+#### February
+* 1. 
+* 8. 
+* 15. 
+* 22. 
+
+#### March
+* 1. SIAM CSE week, no seminar 
+* 8. 
+* 15. spring break, no seminar
+* 22. 
+* 29. 
+
+#### April
+* 5. 
+* 12.
+* 19. Good Friday, no seminar
+* 26.
+
 
 ### Archived Schedules
 
