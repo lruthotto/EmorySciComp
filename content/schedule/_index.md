@@ -51,7 +51,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 8. 
 * 15. 
 * 16. Georgia Scientific Computing Symposium at GA tech
-* 22. 
+* 22. [Yousef Saad](https://www-users.cs.umn.edu/~saad/) (Minnesota)
 
 #### March
 * 1. SIAM CSE week, no seminar 
