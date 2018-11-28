@@ -35,7 +35,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 9. Blair Rossetti
 * 16. [Eldad Haber](https://sites.google.com/site/ehaberubc/home) (UBC), [*Convolution neural networks for semantic segmentation*](http://math.emory.edu/seminar-flyers/seminar-01264.pdf)
 * 23. NO MEETING - Thanksgiving 
-* 30.
+* 30. NO MEETING
 
 #### December 
 * 7. [Wenjing Liao](https://people.math.gatech.edu/~wliao60/) (GA tech)
