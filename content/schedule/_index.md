@@ -38,6 +38,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 30. NO MEETING
 
 #### December 
+* 7. [Traian Iliescu](http://math.emory.edu/events/seminars/seminar.php?SEMID=1267)(Virginia Institute of Technology)
 * 7. [Wenjing Liao](https://people.math.gatech.edu/~wliao60/) (GA tech)
 
 ### Spring 2019 Schedule
