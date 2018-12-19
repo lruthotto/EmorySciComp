@@ -59,7 +59,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 8. 
 * 15. spring break, no seminar
 * 22. 
-* 29. 
+* 29. [Sung Ha Kang](http://people.math.gatech.edu/~kang/) (GA tech)
 
 #### April
 * 5. 
