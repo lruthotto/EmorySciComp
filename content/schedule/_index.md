@@ -10,6 +10,32 @@ First year graduate students and undergraduates interested in applied math and s
 
 For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale), or [Yuanzhe Xi](http://www-users.cs.umn.edu/~yxi/).
 
+### Spring 2019 Schedule
+
+#### January 
+* 18. 
+* 25. 
+
+#### February
+* 1. 
+* 8. 
+* 15. 
+* 16. Georgia Scientific Computing Symposium at GA tech
+* 22. [Yousef Saad](https://www-users.cs.umn.edu/~saad/) (Minnesota)
+
+#### March
+* 1. SIAM CSE week, no seminar 
+* 8. 
+* 15. spring break, no seminar
+* 22. [Tom Goldstein](https://www.cs.umd.edu/~tomg/), University of Maryland
+* 29. [Sung Ha Kang](http://people.math.gatech.edu/~kang/) (GA tech)
+
+#### April
+* 5. 
+* 12.
+* 19. Good Friday, no seminar
+* 26.
+
 
 ### Fall 2018 Schedule
 
@@ -41,31 +67,6 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 7. [Traian Iliescu](http://math.emory.edu/events/seminars/seminar.php?SEMID=1267)(Virginia Institute of Technology)
 * 7. [Wenjing Liao](https://people.math.gatech.edu/~wliao60/) (GA tech)
 
-### Spring 2019 Schedule
-
-#### January 
-* 18. 
-* 25. 
-
-#### February
-* 1. 
-* 8. 
-* 15. 
-* 16. Georgia Scientific Computing Symposium at GA tech
-* 22. [Yousef Saad](https://www-users.cs.umn.edu/~saad/) (Minnesota)
-
-#### March
-* 1. SIAM CSE week, no seminar 
-* 8. 
-* 15. spring break, no seminar
-* 22. 
-* 29. [Sung Ha Kang](http://people.math.gatech.edu/~kang/) (GA tech)
-
-#### April
-* 5. 
-* 12.
-* 19. Good Friday, no seminar
-* 26.
 
 
 ### Archived Schedules
