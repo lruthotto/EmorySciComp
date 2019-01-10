@@ -23,11 +23,11 @@ isCurrent: true
 - Ashley Shin
 
 ### Visiting Graduate Students
+- Yves Barbosa
 - Ludovico Bruni Bruno
 - Zixuan Chen
-- Xiangxi Gao
 - Nicola Ferro
-- Yves Barbosa
+- Leonardo Locatelli 
 
 ### Visiting Masters Students
 - Sara Bridio
