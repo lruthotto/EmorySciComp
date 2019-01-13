@@ -33,7 +33,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 #### April
 * 5. 
 * 12.
-* 19. Good Friday, no seminar
+* 19.
 * 26.
 
 
