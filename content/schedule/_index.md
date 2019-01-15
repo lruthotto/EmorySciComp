@@ -14,7 +14,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 
 #### January 
 * 18. 
-* 25. 
+* 25. Kelvin Kan
 
 #### February
 * 1. 
@@ -34,7 +34,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 5. 
 * 12.
 * 19.
-* 26.
+* 26. Huijuan Xu
 
 
 ### Fall 2018 Schedule
