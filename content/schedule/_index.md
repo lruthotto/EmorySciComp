@@ -17,7 +17,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 25. Kelvin Kan
 
 #### February
-* 1. 
+* 1. Zixuan Chen
 * 8. 
 * 15. [Chao Wang](https://scholar.google.com/citations?user=PBchRWYAAAAJ) (University of Texas at Dallas)
 * 16. Georgia Scientific Computing Symposium at GA tech
