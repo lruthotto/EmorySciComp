@@ -31,7 +31,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 29. [Sung Ha Kang](http://people.math.gatech.edu/~kang/) (GA tech)
 
 #### April
-* 5. 
+* 5. [Rencang Li](http://www.uta.edu/faculty/rcli/) (UT Arlington)
 * 12.
 * 19.
 * 26. Huijuan Xu
