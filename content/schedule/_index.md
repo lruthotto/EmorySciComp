@@ -18,7 +18,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 
 #### February
 * 1. Zixuan Chen
-* 8. 
+* 8. no seminar
 * 15. [Chao Wang](https://scholar.google.com/citations?user=PBchRWYAAAAJ) (University of Texas at Dallas)
 * 16. Georgia Scientific Computing Symposium at GA tech
 * 22. [Yousef Saad](https://www-users.cs.umn.edu/~saad/) (Minnesota)
