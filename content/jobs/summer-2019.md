@@ -9,7 +9,7 @@ draft: false
 
 The Department of Mathematics at Emory University has multiple funded positions for undergraduate summer research in applied and computational mathematics. Topics include machine learning, inverse problems, linear algebra, and partial differential equations. The students will be hosted on Emory's main campus in Atlanta, GA, for eight weeks during the summer. Students are expected to start on June 3. Participants will work independently on a research project under the guidance of the local faculty mentors. 
 
-Summer 2019 projects are being developed in the areas (a) deep neural networks modeled by partial differential equations (b) efficient methods for large-scale image processing (c) numerical linear algebra and eigenvalue problems (d) computational hemodynamics.
+Summer 2019 projects are being developed in the areas a) deep neural networks modeled by partial differential equations b) efficient methods for large-scale image processing c) numerical linear algebra and eigenvalue problems d) computational hemodynamics.
 More details about ongoing projects are listed [here](http://www.mathcs.emory.edu/Research/Area/ScientificComputing/research/). Applicants should indicate their preference among these areas in their research statement.
 
 We particularly encourage women, students from underrepresented groups or institutions, and first-generation college students to apply. 
@@ -21,7 +21,7 @@ Supported participants will receive a stipend of 3,000 USD, travel support of up
 
 **Application Materials:**
 
-All applications must be submitted through [mathprograms.org](https://www.mathprograms.org/) by March 8 (direct link will be available shortly)
+All applications must be submitted through [mathprograms.org](https://www.mathprograms.org/db/programs/792) by March 8.
 
 - Curriculum Vitae
 - Research Statement (discussing experiences and skills related to the program, motivation for the program, career goals,...)
