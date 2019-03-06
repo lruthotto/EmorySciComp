@@ -25,7 +25,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 
 #### March
 * 1. SIAM CSE week, no seminar 
-* 8. 
+* 8. Grad students research highlights
 * 15. spring break, no seminar
 * 22. [Tom Goldstein](https://www.cs.umd.edu/~tomg/), University of Maryland
 * 29. [Sung Ha Kang](http://people.math.gatech.edu/~kang/) (GA tech)
