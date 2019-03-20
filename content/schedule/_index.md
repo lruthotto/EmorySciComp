@@ -27,7 +27,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 1. SIAM CSE week, no seminar 
 * 8. Grad students research highlights
 * 15. spring break, no seminar
-* 22. [Tom Goldstein](https://www.cs.umd.edu/~tomg/), University of Maryland
+* 22. [Tom Goldstein](https://www.cs.umd.edu/~tomg/), University of Maryland, [*Attacking neural networks with poison frogs: a theoretical look at adversarial examples in machine learning*](http://math.emory.edu/events/seminars/seminar.php?SEMID=1298)
 * 29. [Sung Ha Kang](http://people.math.gatech.edu/~kang/) (GA tech)
 
 #### April
