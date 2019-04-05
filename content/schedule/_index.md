@@ -33,8 +33,8 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 #### April
 * 5. [Rencang Li](http://www.uta.edu/faculty/rcli/) (UT Arlington)
 * 12. [Mauro Perego](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?mperego) (Sandia National Laboratory, Albuquerque)
-* 19.
-* 26. Huijuan Xu
+* 19. Huijuan Xu
+* 26. Derek Onken
 
 
 ### Fall 2018 Schedule
