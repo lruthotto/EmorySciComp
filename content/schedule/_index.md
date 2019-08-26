@@ -10,62 +10,11 @@ First year graduate students and undergraduates interested in applied math and s
 
 For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale), or [Yuanzhe Xi](http://www-users.cs.umn.edu/~yxi/).
 
-### Spring 2019 Schedule
 
-#### January 
-* 18. 
-* 25. Kelvin Kan
-
-#### February
-* 1. Zixuan Chen
-* 8. no seminar
-* 15. [Chao Wang](https://scholar.google.com/citations?user=PBchRWYAAAAJ) (University of Texas at Dallas)
-* 16. [Georgia Scientific Computing Symposium at GA tech](https://math.gatech.edu/events/2019-georgia-scientific-computing-symposium)
-* 22. [Yousef Saad](https://www-users.cs.umn.edu/~saad/) (Minnesota)
-
-#### March
-* 1. SIAM CSE week, no seminar 
-* 8. Grad students research highlights
-* 15. spring break, no seminar
-* 22. [Tom Goldstein](https://www.cs.umd.edu/~tomg/), University of Maryland, [*Attacking neural networks with poison frogs: a theoretical look at adversarial examples in machine learning*](http://math.emory.edu/events/seminars/seminar.php?SEMID=1298)
-* 29. [Sung Ha Kang](http://people.math.gatech.edu/~kang/) (GA tech)
-
-#### April
-* 5. [Rencang Li](http://www.uta.edu/faculty/rcli/) (UT Arlington)
-* 12. [Mauro Perego](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?mperego) (Sandia National Laboratory, Albuquerque)
-* 19. Huijuan Xu
-* 26. Derek Onken
-
-
-### Fall 2018 Schedule
+### Fall 2019 Schedule
 
 #### August 
-* 31. Meet and greet + Faculty research highlights I
-
-#### September
-* 7. Faculty research highlights II + group photo
-* 14. Sofia Guzzetti and Alessandro Barone
-* 21. Chang Meng
-* 28. Ru Huang
-
-#### October
-* 5.  James Nagy
-* 12. Sara Bridio (Politechnico Milano and Emory)
-* 19. [Hao-Min Zhou](http://people.math.gatech.edu/~hmzhou/) (GA tech), [*Optimal Transport on Finite Graphs with Applications*](http://math.emory.edu/events/seminars/seminar.php?SEMID=1259)
-* 26. **non-standard time and place: 10AM Atwood 215** [Marta D'Elia](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?mdelia) (Sandia National Lab), *Nonlocal Models in Computational Science and Engineering*
-* 26. [Braxton Osting](https://www.math.utah.edu/~osting/) (University of Utah), [*Diffusion generated methods for target-valued maps*](http://math.emory.edu/events/seminars/seminar.php?SEMID=1257)
-* 31. **Colloqium:** [Dave Yuen](https://scholar.google.com/citations?user=Z63m_ZIAAAAJ&hl=en) (Columbia University)
-
-#### November 
-* 2. [Xiaojing Ye](https://math.gsu.edu/xye/) (GA State), [*Decentralized consensus optimization on networks with delayed and stochastic gradients*](http://math.emory.edu/events/seminars/seminar.php?SEMID=1258)
-* 9. Blair Rossetti
-* 16. [Eldad Haber](https://sites.google.com/site/ehaberubc/home) (UBC), [*Convolution neural networks for semantic segmentation*](http://math.emory.edu/seminar-flyers/seminar-01264.pdf)
-* 23. NO MEETING - Thanksgiving 
-* 30. NO MEETING
-
-#### December 
-* 7. [Traian Iliescu](http://math.emory.edu/events/seminars/seminar.php?SEMID=1267)(Virginia Institute of Technology)
-* 7. [Wenjing Liao](https://people.math.gatech.edu/~wliao60/) (GA tech)
+* 27. **2pm at W301**:  [Silvia Gazzola](http://people.bath.ac.uk/sg968/) (University of Bath), [http://math.emory.edu/seminar-flyers/seminar-01311.pdf](Iterative regularization methods for large-scale linear inverse problems)
 
 
 
