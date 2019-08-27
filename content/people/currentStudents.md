@@ -15,7 +15,7 @@ isCurrent: true
 - Ru Huang
 - Kelvin Kan
 - Chang Meng
-- Derek Onken
+- [Derek Onken](http://www.cs.emory.edu/~donken/)
 - [Blair Rossetti](http://blairrossetti.com/)
 - Huijuan Xu
 
