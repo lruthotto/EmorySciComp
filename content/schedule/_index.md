@@ -16,6 +16,13 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 #### August 
 * 27. **2pm at W301**:  [Silvia Gazzola](http://people.bath.ac.uk/sg968/) (University of Bath), [http://math.emory.edu/seminar-flyers/seminar-01311.pdf](Iterative regularization methods for large-scale linear inverse problems)
 
+#### September  
+* 6. **2pm at W301**:  [Elizabeth Newman](https://sites.tufts.edu/elizabethnewman/) (Emory University), TBD
+
+* 13. **2pm at W301**:  [Difeng Cai](http://people.bath.ac.uk/sg968/) (Emory University), TBD
+
+* 20. **2pm at W301**:  [Difeng Cai](http://people.bath.ac.uk/sg968/) (Emory University), TBD
+
 
 
 ### Archived Schedules
