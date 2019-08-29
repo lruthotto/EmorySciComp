@@ -21,7 +21,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 
 * 13. **2pm at W301**:  [Difeng Cai](http://people.bath.ac.uk/sg968/) (Emory University), TBD
 
-* 20. **2pm at W301**:  [Difeng Cai](http://people.bath.ac.uk/sg968/) (Emory University), TBD
+
 
 
 
