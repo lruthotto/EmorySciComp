@@ -19,7 +19,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 #### September  
 * 6. **2pm at W301**:  [Elizabeth Newman](https://sites.tufts.edu/elizabethnewman/) (Emory University), TBD
 
-* 13. **2pm at W301**:  [Difeng Cai](http://people.bath.ac.uk/sg968/) (Emory University), TBD
+* 13. **2pm at W301**:  [Difeng Cai](http://people.bath.ac.uk/sg968/) (Emory University), SMASH
 
 
 
