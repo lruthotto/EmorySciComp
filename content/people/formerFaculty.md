@@ -7,6 +7,8 @@ isCurrent: false
 ---
 
 ### Former Long Term Visitors
+- Xiaotong Chen
+- Zixuan Chen
 - [Mario Arioli](http://www.numerical.rl.ac.uk/people/marioli/marioli.html)
 - [Fatemeh Panjeh Ali Beik](http://beik.faculty.vru.ac.ir)
 - Margaret Callahan
@@ -37,6 +39,10 @@ isCurrent: false
 - [Bora Ucar](http://perso.ens-lyon.fr/bora.ucar/) (2005--2006)
 
 ### Former Graduate Students
+- [Samy Wu Fung](https://sites.google.com/site/samywufung/), PhD 2019
+- [Sofia Guzzetti](https://sites.google.com/view/sofiaguzzetti ), PhD 2019
+- [Blair Rossetti](http://blairrossetti.com/), PhD 2019
+- Yunyi Hu, PhD 2019
 - Clarissa Garvey, PhD 2018
 - Alex Viguerie, PhD 2018
 - [Massimiliano Lupo Pasini](http://www.mathcs.emory.edu/~mlupopa/), PhD 2018
