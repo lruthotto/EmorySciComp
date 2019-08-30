@@ -25,6 +25,6 @@ isCurrent: true
 -  James Nance
 
 ### Postdocs
-- Adrien Lefieux
-- Lauri Mustonen
+- Difeng Cai  
+- Elizabeth Newman
 
