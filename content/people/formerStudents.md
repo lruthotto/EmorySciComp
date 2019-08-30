@@ -21,6 +21,14 @@ isCurrent: false
 - Helen Schomburg
 
 ### Former  Honors Students
+- Mengtong Hu
+- Derek Zhang
+- Francis Yin
+- Sherry Huang
+- Tianhui Mao
+- Evan Scope Crafts
+- Kathy Wu
+- Derek Zhang
 - Wenda Zheng, BS 2018
 - Huiying Zhu, BS 2017
 - Siqi Xuo, BS 2017
