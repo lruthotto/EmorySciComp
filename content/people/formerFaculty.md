@@ -7,14 +7,18 @@ isCurrent: false
 ---
 
 ### Former Long Term Visitors
-- Xiaotong Chen
-- Zixuan Chen
 - [Mario Arioli](http://www.numerical.rl.ac.uk/people/marioli/marioli.html)
 - [Fatemeh Panjeh Ali Beik](http://beik.faculty.vru.ac.ir)
+- Yves Barbosa
+- Ludovico Bruni Bruno
+- Xiaotong Chen
+- Zixuan Chen
 - Margaret Callahan
 - [Ernesto Estrada](http://www.estradalab.org)
+- Nicola Ferro
 - Paraskevi Fika
 - Bao Liang
+- Leonardo Locatelli
 - [Jan Modersitzki](http://www.mic.uni-luebeck.de/people/jan-modersitzki.html)
 - [Maxim Olshanskii](http://www.math.uh.edu/~molshan/)
 - [Simona Perotto](http://www1.mate.polimi.it/~simona/)
