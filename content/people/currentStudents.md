@@ -8,35 +8,26 @@ isCurrent: true
 
 ### Graduate Students
 - Alessandro Barone
-- [Samy Wu Fung](https://sites.google.com/site/samywufung/)
 - Xiangxi Gao
-- [Sofia Guzzetti](https://sites.google.com/view/sofiaguzzetti )
-- Yunyi Hu
 - Ru Huang
+- Yuliang Ji
 - Kelvin Kan
+- Xingjian Li
 - Chang Meng
 - [Derek Onken](http://www.cs.emory.edu/~donken/)
-- [Blair Rossetti](http://blairrossetti.com/)
 - Huijuan Xu
 
 ### Master Students
-- Ashley Shin
 
 ### Visiting Graduate Students
-- Yves Barbosa
-- Ludovico Bruni Bruno
-- Zixuan Chen
-- Nicola Ferro
-- Leonardo Locatelli 
+
 
 ### Visiting Masters Students
-- Sara Bridio
-- Jiena Hou
+
 
 ### Undergraduate Honors Students
-- Evan Scope Crafts
-- Kathy Wu
-- Derek Zhang
+- Lydia Fu
+
 
 
 
