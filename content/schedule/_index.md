@@ -17,9 +17,25 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 27. **2pm at W301**:  [Silvia Gazzola](http://people.bath.ac.uk/sg968/) (University of Bath), [http://math.emory.edu/seminar-flyers/seminar-01311.pdf](Iterative regularization methods for large-scale linear inverse problems)
 
 #### September
-* 6. **2pm at W301**:  [Elizabeth Newman](https://sites.tufts.edu/elizabethnewman/) (Emory University)
-* 13. **2pm at W301**:  [Difeng Cai](https://www.mathcs.emory.edu/~dcai7) (Emory University)
+* 6. **2pm at W303**:  [Elizabeth Newman](https://sites.tufts.edu/elizabethnewman/) (Emory University), [http://math.emory.edu/seminar-flyers/seminar-01318.pdf](A Step in the Right Dimension: Tensor Algebra and Applications)
+* 13. **2pm at W303**:  [Difeng Cai](https://www.mathcs.emory.edu/~dcai7) (Emory University), [http://math.emory.edu/seminar-flyers/seminar-01320.pdf](Structured Matrix Approximation by Separation and Hierarchy)
+* 20. **2pm at W303**:  [Huang Hua] (Georgia Tech), [http://math.emory.edu/seminar-flyers/seminar-01327.pdf] (Techniques for High-Performance Construction of Fock Matrices)
+* 27. **2pm at W303**:
 
+#### October
+* 4. **2pm at W303**:
+* 11. **2pm at W303**:
+* 18. **2pm at W303**:
+* 25. **2pm at W303**:
+
+#### November  
+* 1. **2pm at W303**:
+* 8. **2pm at W303**:
+* 13. **2pm at W303**:  [Trachette Jackson](https://sites.lsa.umich.edu/tjacks/) (University of Michigan)
+* 22. **2pm at W303**:  [Talea Mayo](https://www.taleamayo.com/) (University of Central Florida)
+* 29. **2pm at W303**:
+
+#### December
 
 
 
