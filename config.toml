@@ -38,29 +38,35 @@ theme = "minimal"
     weight = 4
 
 [[menu.main]]
+    url = "/REURET/"
+    name = "REU/RET"
+    weight = 5
+
+
+[[menu.main]]
     url = "/grad/"
     name = "Graduate"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     url = "/teaching/"
     name = "Teaching"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     url = "/schedule/"
     name = "Seminar"
-    weight = 7
+    weight = 8
 
 [[menu.main]]
     url = "/jobs/"
     name = "Jobs"
-    weight = 8
+    weight = 9
 
 [[menu.main]]
     url = "/people/"
     name = "People"
-    weight = 9
+    weight = 10
 
 
 # Social icons to be shown on the right-hand side of the navigation bar
