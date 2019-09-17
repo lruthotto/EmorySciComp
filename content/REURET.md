@@ -10,7 +10,7 @@ Our group has been providing summer research opportunities for undergraduate stu
 
 Funding for the summer of 2020 that would allow us to support non-Emory students is still pending and specific details will be published here soon. 
 
-Emory students that are interested in summer research should read about the [**Emory Summer Undergraduate Research Experience (SURE)**](http://college.emory.edu/undergraduate-research/). Applications for the SURE program are reviewed in the spring semester and interested student should identify and talk to a faculty mentor about their project plan ahead of time. The SURE program allows students to work on their project during the summer at the end of which they will present their progress in a poster symposium. Participants receive a stipend and housing support. 
+Emory students that are interested in summer research should read about the [**Emory Summer Undergraduate Research Experience (SURE)**](http://college.emory.edu/undergraduate-research/). Applications for the SURE program are reviewed in the spring semester and interested students should identify and talk to a faculty mentor about their project plan ahead of time. The SURE program allows students to work on their project during the summer at the end of which they will present their progress in a poster symposium. Participants receive a stipend and housing support. 
 
 
 
