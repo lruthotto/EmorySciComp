@@ -1,7 +1,9 @@
-baseURL = "http://www.mathcs.emory.edu/Research/Area/ScientificComputing/"
+baseURL = "http://www.mathcs.emory.edu/site/scicomp/"
 languageCode = "en-us"
 title = "Emory Scientific Computing Group"
 theme = "minimal"
+disablePathToLower=true
+
 #disqusShortname = "username" # delete this to disable disqus comments
 
 [params]
