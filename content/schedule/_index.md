@@ -24,6 +24,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 
 #### November  
 * 13. **2pm at W303**:  [Trachette Jackson](https://sites.lsa.umich.edu/tjacks/) (University of Michigan)
+* 22. **1pm at W303**   [Christian Esparza] (University of Cambridge)  
 * 22. **2pm at W303**:  [Talea Mayo](https://www.taleamayo.com/) (University of Central Florida)
 
 #### December
