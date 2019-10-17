@@ -19,8 +19,8 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 #### September
 * 6. **2pm at W303**:  [Elizabeth Newman] (https://sites.tufts.edu/elizabethnewman/) (Emory University), [http://math.emory.edu/seminar-flyers/seminar-01318.pdf] (A Step in the Right Dimension: Tensor Algebra and Applications)
 * 13. **2pm at W303**:  [Difeng Cai] (https://www.mathcs.emory.edu/~dcai7) (Emory University), [http://math.emory.edu/seminar-flyers/seminar-01320.pdf] (Structured Matrix Approximation by Separation and Hierarchy)
-* 20. **2pm at W303**:  [Huang Hua] (https://www.linkedin.com/in/hua-huang-146a1b104)(Georgia Tech), [http://math.emory.edu/seminar-flyers/seminar-01327.pdf] (Techniques for High-Performance Construction of Fock Matrices)
-* 27. **2pm at W303**:  [Longmei Shu] (http://people.math.gatech.edu/~lshu6/)(Emory University), [http://math.emory.edu/seminar-flyers/seminar-01330.pdf] (Local Immunodeficiency: Minimal Network and Stability)
+* 20. **2pm at W303**:  [Huang Hua] (https://www.linkedin.com/in/hua-huang-146a1b104) (Georgia Tech), [http://math.emory.edu/seminar-flyers/seminar-01327.pdf] (Techniques for High-Performance Construction of Fock Matrices)
+* 27. **2pm at W303**:  [Longmei Shu] (http://people.math.gatech.edu/~lshu6/) (Emory University), [http://math.emory.edu/seminar-flyers/seminar-01330.pdf] (Local Immunodeficiency: Minimal Network and Stability)
 
 #### October
 * 4. **2pm at W303**:  No Talk
