@@ -23,9 +23,13 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 27. **2pm at W303**:  [Longmei Shu] (http://people.math.gatech.edu/~lshu6/)(Emory University), [http://math.emory.edu/seminar-flyers/seminar-01330.pdf](Local Immunodeficiency: Minimal Network and Stability)
 
 #### October
-* 4. **2pm at W303**:  [Jordi Wolfson-Pou] (Georgia Tech), (Asynchronous Iterative Methods)
+* 4. **2pm at W303**:  No Talk
+* 11. **2pm at W303**:  Annual Emerson Center Lectureship Award Symposium
+* 18. **2pm at W303**:  [Jordi Wolfson-Pou] (Georgia Tech), [http://math.emory.edu/seminar-flyers/seminar-01334.pdf](Asynchronous Iterative Methods)
+* 25. **2pm at W303**:  No Talk
 
 #### November  
+* 8.  **2pm at W303**:  [Thinh Doan] (https://sites.google.com/site/thinhdoan210) (Georgia Tech)
 * 13. **2pm at W303**:  [Trachette Jackson](https://sites.lsa.umich.edu/tjacks/) (University of Michigan)
 * 22. **1pm at W303**   [Christian Esparza] (University of Cambridge)  
 * 22. **2pm at W303**:  [Talea Mayo](https://www.taleamayo.com/) (University of Central Florida)
