@@ -20,8 +20,10 @@ We expect the students we advise to create new knowledge leading to scholarship 
 
 A few recent examples of peer-reviewed papers that originated from undergraduate work are:
 
-- Garvey C., Meng C., Nagy J.: [Singular Value Decomposition Approximation via Kronecker Summations for Imaging Applications](https://arxiv.org/abs/1803.11525). SIAM Journal on Matrix Analysis and Applications, to appear, accepted for publication in October 2018.
-- Lin C Y, Veneziani A, Ruthotto L: [Numerical Methods for Polyline-to-Point-Cloud Registration with Applications to Patient-Specific Stent Reconstruction](https://doi.org/10.1002/cnm.2934), International Journal for Numerical Methods in Biomedical Engineering, 34(3) 2017
+- Ramos E, Rexer E,  Saran I: A Monetary Evaluation of
+Ecosystem Services, UMAP Journal on Undergraduate Mathematics and Its Applications, 2019. *This paper was selected as one of the top papers in ICM 2019 and awarded the status of  outstanding winners (top 8 out of 4,852 submissions)*
+- Garvey C., Meng C., Nagy J.: [Singular Value Decomposition Approximation via Kronecker Summations for Imaging Applications](https://arxiv.org/abs/1803.11525). SIAM Journal on Matrix Analysis and Applications, 39(4), 2018.
+- Lin C Y, Veneziani A, Ruthotto L: [Numerical Methods for Polyline-to-Point-Cloud Registration with Applications to Patient-Specific Stent Reconstruction](https://doi.org/10.1002/cnm.2934), International Journal for Numerical Methods in Biomedical Engineering, 34(3), 2017
 - Platero R., [Least Squares Updating for Kronecker Products](http://pid.emory.edu/ark:/25593/s0gvp). Received Outstanding Student Research Presentation Award at the 2017 Annual Meeting of the Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS).
 - Keller, J. P., Gerardo-Giorda, L., & Veneziani, A. (2013). [Numerical simulation of a susceptible–exposed–infectious space-continuous model for the spread of rabies in raccoons across a realistic landscape](https://dx.doi.org/10.1080%2F17513758.2012.742578). Journal of biological dynamics, 7(sup1), 31-46.)
 
@@ -38,8 +40,19 @@ The Department of Mathematics and our group offer various ways for undergraduate
 
 ### Research Opportunities at Other Institutions
 
-We are glad to help students find research opportunities (e.g., NSF REUs) at other institutions. Programs are commonly listed at https://www.mathprograms.org/db.
+We are glad to help students find research opportunities (e.g., NSF REUs) at other institutions. A few examples of programs for the summer of 2020 are. Most application deadlines are in 2020. 
 
+- [**Research in Industrial Projects for Students (RIPS) 2020, Los Angeles**](http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2020/). 
+
+- [**Research in Industrial Projects for Students (RIPS) 2020, Singapore**](http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2020-singapore/) 
+
+- [**WPI REU in Industrial Mathematics and Statistics 2020**](https://www.mathprograms.org/db/programs/851)
+
+- [**Summer@ICERM: Undergraduate Summer Research Program: Fast Learning Algorithms for Numerical Computation and Data Analysis 2020**](https://www.mathprograms.org/db/programs/861)
+
+More programs can be found at https://www.mathprograms.org/db.
+
+These programs are very competitive and some of them require reference letters from faculty who know you well. If you are interested in applying to these programs, it is recommended that you discuss this with your faculty advisor early enough.
 
 
 ### Placement
