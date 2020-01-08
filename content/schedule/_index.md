@@ -1,6 +1,6 @@
 ---
 title: "Scientific Computing Seminar"
-date: 2018-07-07T09:49:04-04:00
+date: 2020-01-07 T09:49:04-04:00
 draft: false
 ---
 
@@ -8,7 +8,25 @@ Meetings of the Scientific Computing Group will be held once a week, 2:00--3:00 
 
 First year graduate students and undergraduates interested in applied math and scientific computing are welcome to attend. (A presentation is not required.)
 
-For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale), or [Yuanzhe Xi](http://www-users.cs.umn.edu/~yxi/).
+For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale), or [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/).
+
+
+### Spring 2020 Schedule
+
+#### January
+* 9. **1:30pm at W301**:  [Talea Mayo](https://www.taleamayo.com/) (University of Central Florida)
+* 13. **4pm at W201**:  [Greg Ongie](https://gregongie.github.io/) (University of Chicago)
+* 16. **3pm at W301**:  [Shahar Kovalsky](https://shaharkov.github.io/) (Duke)
+* 21. **3pm at W303**:  [Franca Hoffmann](https://francahoffmann.wordpress.com/) (Caltech)
+* 23. **3pm at W301**:  [Bao Wang](https://www.math.ucla.edu/~wangbao/) (UCLA)
+
+#### February
+* 28. **2pm at W301**:  [Bob Strain](https://www.math.upenn.edu/~strain/) (UPenn)
+* 29. **MSC**: 2020 Georgia Scientific Computing Symposium (GSCS)
+
+
+
+
 
 
 ### Fall 2019 Schedule
