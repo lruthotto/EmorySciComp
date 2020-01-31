@@ -22,10 +22,13 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 
 #### February
 * 3. **4pm at N306**:  [Gitta Kutyniok](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/angewandtefunktionalanalysis/v_menue/mitarbeiter/kutyniok/v_menue/home/) (TU Berlin)
-* 14. **2pm at W301**: GSCS coordinate meeting
-* 28. **2pm at W301**:  [Bob Strain](https://www.math.upenn.edu/~strain/) (UPenn)
+* 14. **2pm at W201**: GSCS coordinate meeting
+* 28. **2pm at W201**:  [Bob Strain](https://www.math.upenn.edu/~strain/) (UPenn)
 * 29. **MSC**: 2020 Georgia Scientific Computing Symposium (GSCS)
 
+#### March
+* 6. **2pm at W201**:  [Jie Chen](https://jiechenjiechen.github.io/) (MIT-IBM Watson AI Lab)
+* 27. **2pm at W201**: [Samy Wu Fung](https://sites.google.com/site/samywufung/research?authuser=0) (UCLA)
 
 
 
