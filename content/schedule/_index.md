@@ -10,6 +10,8 @@ First year graduate students and undergraduates interested in applied math and s
 
 For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale), or [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/).
 
+Starting from March 27, the semianr  switches to online meeting. The Zoom Meeting ID is https://emory.zoom.us/j/313230176.
+
 
 ### Spring 2020 Schedule
 
@@ -30,9 +32,9 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Lar
 * 6. **2pm at W201**:  [Jie Chen](https://jiechenjiechen.github.io/) (MIT-IBM Watson AI Lab)
 * 13. Spring Break
 * 20. Spring Break
-* 27. **2pm at https://emory.zoom.us/j/313230176 **: [Samy Wu Fung](https://sites.google.com/site/samywufung/research?authuser=0) (UCLA)https://emory.zoom.us/rec/play/uMctcO6hqDI3E9OXtQSDAfEoW43ueqmshHUY8qUFnxrmBXYLMwenb7UUZ7cUht5Ax1YqHiwmH2Z-npUi
+* 27. **2pm at zoom**: [Samy Wu Fung](https://sites.google.com/site/samywufung/research?authuser=0) (UCLA) (Recorded talk: https://emory.zoom.us/rec/play/uMctcO6hqDI3E9OXtQSDAfEoW43ueqmshHUY8qUFnxrmBXYLMwenb7UUZ7cUht5Ax1YqHiwmH2Z-npUi)
 #### April
-* 3. **2pm at https://emory.zoom.us/j/313230176 **:  [Wei Zhu](https://services.math.duke.edu/~zhu/) (Duke)
+* 3. **2pm at zoom**:  [Wei Zhu](https://services.math.duke.edu/~zhu/) (Duke)
 * 10. 
 * 17. 
 * 24. 
