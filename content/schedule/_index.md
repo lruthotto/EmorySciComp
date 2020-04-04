@@ -37,7 +37,7 @@ Starting from March 27, the seminar switches to online meeting. The Zoom Meeting
 #### April
 * 3. **2pm at zoom**:  [Wei Zhu](https://services.math.duke.edu/~zhu/) (Duke)
 * 10. 
-* 17. **2pm at zoom**  [Ruipeng Li](https://people.llnl.gov/li50)(LLNL)
+* 17. **2pm at zoom**:  [Ruipeng Li](https://people.llnl.gov/li50)(LLNL)
 * 24. 
 
 
