@@ -15,14 +15,14 @@ isCurrent: true
 - Yuliang Ji
 - Kelvin Kan
 - Xingjian Li
-- [Chang Meng] (https://sites.google.com/view/changmeng/home)
+- [Chang Meng](https://sites.google.com/view/changmeng/home)
 - [Derek Onken](http://www.cs.emory.edu/~donken/)
 - Jiaqi Yang
 - Shifan Zhao
 
 ### Master Students
 - Maenishia Simmons
-- Benjamin Yellin
+- Benjamin Yellin 
 
 
 ### Visiting Graduate Students
