@@ -1,6 +1,6 @@
 ---
 title: "People"
-date: 2018-07-13T09:35:08-04:00
+date: 2020-08-16T09:35:08-04:00
 draft: false
 align: "left"
 isCurrent: false
@@ -43,6 +43,8 @@ isCurrent: false
 - [Bora Ucar](http://perso.ens-lyon.fr/bora.ucar/) (2005--2006)
 
 ### Former Graduate Students
+- Huijuan Xu, PhD 2020
+- [Alessandro Barone](https://sites.google.com/view/alessandrobarone/home), PhD 2019
 - [Samy Wu Fung](https://sites.google.com/site/samywufung/), PhD 2019
 - [Sofia Guzzetti](https://sites.google.com/view/sofiaguzzetti ), PhD 2019
 - [Blair Rossetti](http://blairrossetti.com/), PhD 2019
