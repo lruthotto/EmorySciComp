@@ -7,9 +7,9 @@ isCurrent: true
 ---
 
 ### Faculty
-- [Michele Benzi](http://www.mathcs.emory.edu/~benzi)
 - [Bree Ettinger](http://www.mathcs.emory.edu/~betting/)
 - [Manuela Manetta](http://mannalela.wixsite.com/manuelamanetta)
+- [Talea Mayo](https://www.taleamayo.com)
 - [James Nagy](http://www.mathcs.emory.edu/~nagy)
 - [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot)
 - [Vaidy Sunderam](http://www.mathcs.emory.edu/~vss)
@@ -27,4 +27,6 @@ isCurrent: true
 ### Postdocs
 - Difeng Cai  
 - Elizabeth Newman
+- Bas Peters
+
 
