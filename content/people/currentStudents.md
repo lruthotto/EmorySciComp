@@ -1,23 +1,29 @@
 ---
 title: "People"
-date: 2018-07-13T10:23:08-04:00
+date: 2020-08-16T10:23:08-04:00
 draft: false
 align: "right"
 isCurrent: true
 ---
 
 ### Graduate Students
-- Alessandro Barone
+- Ariana Brown 
+- Alex Dunbar
 - Xiangxi Gao
+- Olivia Greathouse
 - Ru Huang
 - Yuliang Ji
 - Kelvin Kan
 - Xingjian Li
-- Chang Meng
+- [Chang Meng] (https://sites.google.com/view/changmeng/home)
 - [Derek Onken](http://www.cs.emory.edu/~donken/)
-- Huijuan Xu
+- Jiaqi Yang
+- Shifan Zhao
 
 ### Master Students
+- Maenishia Simmons
+- Benjamin Yellin
+
 
 ### Visiting Graduate Students
 
@@ -26,7 +32,8 @@ isCurrent: true
 
 
 ### Undergraduate Honors Students
-- Lydia Fu
+- William Ding
+- Yuwei Wu
 
 
 
