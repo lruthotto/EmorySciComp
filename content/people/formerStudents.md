@@ -1,6 +1,6 @@
 ---
 title: "People"
-date: 2017-08-28T09:35:08-04:00
+date: 2020-08-19T09:35:08-04:00
 draft: false
 align: "right"
 isCurrent: false
@@ -9,6 +9,8 @@ isCurrent: false
 
 ### Former Visiting Graduate Students
 - Francesca Arrigo
+- Zixuan Chen
+- Xiaotong Chen
 - Anastasia Cornelio
 - Caterina Fenu
 - Silvia Gazzola
@@ -21,14 +23,15 @@ isCurrent: false
 - Helen Schomburg
 
 ### Former  Honors Students
-- Mengtong Hu
-- Derek Zhang
-- Francis Yin
-- Sherry Huang
-- Tianhui Mao
-- Evan Scope Crafts
-- Kathy Wu
-- Derek Zhang
+- Zhiqi Fu, BS 2020
+- Mengtong Hu, BS 2019
+- Derek Zhang, BS 2019
+- Francis Yin, BS 2019
+- Sherry Huang, BS 2019
+- Tianhui Mao, BS 2019
+- Evan Scope Crafts, BS 2019
+- Kathy Wu, BS 2019
+- Derek Zhang, BS 2019
 - Wenda Zheng, BS 2018
 - Huiying Zhu, BS 2017
 - Siqi Xuo, BS 2017
