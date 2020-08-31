@@ -1,8 +1,8 @@
 ---
 title: "Hierarchical Kernel Matrices for Scientific and Data Applications"
-date: 2020-10-01T09:59:16-04:00
+date: 2020-8-01T09:59:16-04:00
 draft: false
-weight: 1
+weight: -1
 img: "fig_nucleoid.png"
 ---
 
