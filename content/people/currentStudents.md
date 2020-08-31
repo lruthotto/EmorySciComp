@@ -25,10 +25,10 @@ isCurrent: true
 - Benjamin Yellin 
 
 
-### Visiting Graduate Students
+%### Visiting Graduate Students
 
 
-### Visiting Masters Students
+%### Visiting Masters Students
 
 
 ### Undergraduate Honors Students
