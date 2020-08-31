@@ -3,7 +3,7 @@ title: "People"
 date: 2018-07-13T10:35:08-04:00
 draft: false
 align: "left"
-isCurrent: true
+isCurrent: false
 ---
 
 ### Faculty
