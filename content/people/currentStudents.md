@@ -6,34 +6,6 @@ align: "right"
 isCurrent: false
 ---
 
-### Graduate Students
-- Ariana Brown 
-- Alex Dunbar
-- Xiangxi Gao
-- Olivia Greathouse
-- Ru Huang
-- Yuliang Ji
-- Kelvin Kan
-- Xingjian Li
-- [Chang Meng](https://sites.google.com/view/changmeng/home)
-- [Derek Onken](http://www.cs.emory.edu/~donken/)
-- Jiaqi Yang
-- Shifan Zhao
-
-### Master Students
-- Maenishia Simmons
-- Benjamin Yellin 
-
-
-### Visiting Graduate Students
-
-
-### Visiting Masters Students
-
-
-### Undergraduate Honors Students
-- William Ding
-- Yuwei Wu
 
 
 
