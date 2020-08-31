@@ -7,14 +7,23 @@
         </header>
         <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
 		
-        <div class="text-justify">
-			{{ range .Data.Pages }}
-			<div>{{.Content}}</div>
-			{{end}}
-		
-		
-			<!--{{ .Content }} -->
+		<div class="container">
+			<div class="row text-justify">
+				{{ with .Site.GetPage "currentLeft.md"}}
+				<div class="col-sm-6">{{.Content}}</div>
+				{{end}}
+				{{ with .Site.GetPage "currentRight.md"}}
+				<div class="col-sm-6">{{.Content}}</div>
+				{{end}}
+			</div>
 		</div>
+		<hr>
+		<div class="text-justify">
+			{{ with .Site.GetPage "former.md"}}
+			<div class="{{ .Params.align }}Float">{{.Content}}</div>
+			{{end}}
+		</div>
+
     </article>
 </main>
 {{ partial "footer.html" . }}
