@@ -1,54 +1,9 @@
 ---
 title: "People"
-date: 2018-07-13T10:35:08-04:00
+date: 2020-08-19T09:35:08-04:00
 draft: false
 align: "left"
-isCurrent: false 
 ---
-
-### Faculty
-- [Bree Ettinger](http://www.mathcs.emory.edu/~betting/)
-- [Manuela Manetta](http://mannalela.wixsite.com/manuelamanetta)
-- [Talea Mayo](https://www.taleamayo.com)
-- [James Nagy](http://www.mathcs.emory.edu/~nagy)
-- [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot)
-- [Vaidy Sunderam](http://www.mathcs.emory.edu/~vss)
-- [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale)
-- [Yuanzhe Xi](http://www.mathcs.emory.edu/~yxi26/)
-
-### Adjunct Faculty
-- [Mario Arioli](http://www.numerical.rl.ac.uk/people/marioli/marioli.html)
-- [Maxim Olshanskii](http://www.math.uh.edu/~molshan/)
-- [Zdenek Strakos](http://www.cs.cas.cz/~strakos)
-
-
-### Postdocs
-- Difeng Cai  
-- Elizabeth Newman
-- Bas Peters
-
-
-### Graduate Students
-- Ariana Brown 
-- Alex Dunbar
-- Xiangxi Gao
-- Olivia Greathouse
-- Ru Huang
-- Yuliang Ji
-- Kelvin Kan
-- Xingjian Li
-- [Chang Meng](https://sites.google.com/view/changmeng/home)
-- [Derek Onken](http://www.cs.emory.edu/~donken/)
-- Jiaqi Yang
-- Shifan Zhao
-
-### Master Students
-- Maenishia Simmons
-- Benjamin Yellin 
-
-### Undergraduate Honors Students
-- William Ding
-- Yuwei Wu
 
 ### Former Postdocs
 - Boyi Yang (2015-2017)
@@ -164,7 +119,6 @@ isCurrent: false
 - Marina Piccinelli
 - Helen Schomburg
 
-
 ### Former Long Term Visitors
 - [Mario Arioli](http://www.numerical.rl.ac.uk/people/marioli/marioli.html)
 - [Fatemeh Panjeh Ali Beik](http://beik.faculty.vru.ac.ir)
@@ -185,6 +139,3 @@ isCurrent: false
 - [Leo Rebholz](http://www.math.clemson.edu/~rebholz/)
 - [Zdenek Strakos](http://www.cs.cas.cz/~strakos)
 - Jianjun Zhang
-
-
-

@@ -44,7 +44,6 @@ disablePathToLower=true
     name = "REU/RET"
     weight = 5
 
-
 [[menu.main]]
     url = "/grad/"
     name = "Graduate"
