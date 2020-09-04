@@ -20,7 +20,7 @@ align: "left"
 - [Maxim Olshanskii](http://www.math.uh.edu/~molshan/)
 - [Zdenek Strakos](http://www.cs.cas.cz/~strakos)
 
-### Postdocs
+### Distinguished Visiting Assistant Professors
 - Difeng Cai  
 - Elizabeth Newman
 - Bas Peters
