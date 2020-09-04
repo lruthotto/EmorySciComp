@@ -26,4 +26,4 @@ align: "right"
 ### Undergraduate Honors Students
 - William Ding
 - Yuwei Wu
-
+- Uriel Yang
