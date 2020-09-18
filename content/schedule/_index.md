@@ -23,9 +23,9 @@ For the fall 2020, the seminar switches to online meeting. The Zoom Meeting ID i
 
 #### October
 * 2. **2:40pm**:  [Madeleine Udell (Cornell)](https://people.orie.cornell.edu/mru8/)
-* 9. **2:40pm**:  [Qiang Ye (U Kentucky)](http://www.ms.uky.edu/~qye/)
+* 9. **2:40pm**:  [Qiang Ye (U Kentucky)](http://www.ms.uky.edu/~qye/)(Numerical Linear Algebra Methods in Recurrent Neural Networks)
 * 16. **2:40pm**: [Bas Peters (Emory)](https://petersbas.github.io)
-* 23. **2:40pm**: [Guang Lin (Purdue)](https://www.math.purdue.edu/~lin491/)
+* 23. **2:40pm**: [Guang Lin (Purdue)](https://www.math.purdue.edu/~lin491/)(Bayesian Sparse learning with preconditioned stochastic gradient MCMC and its applications)
 * 30. **2:40pm**: 
 
 
