@@ -26,12 +26,12 @@ For the fall 2020, the seminar switches to online meeting. The Zoom Meeting ID i
 * 9. **2:40pm**:  [Qiang Ye (U Kentucky)](http://www.ms.uky.edu/~qye/)(Numerical Linear Algebra Methods in Recurrent Neural Networks)
 * 16. **2:40pm**: [Bas Peters (Emory)](https://petersbas.github.io)
 * 23. **2:40pm**: [Guang Lin (Purdue)](https://www.math.purdue.edu/~lin491/)(Bayesian Sparse learning with preconditioned stochastic gradient MCMC and its applications)
-* 30. **2:40pm**: [Zhaojun Bai(UC Davis)](https://www.cs.ucdavis.edu/~bai/)
+* 30. **2:40pm**: 
 
 
 #### November  
 * 6.  **2:40pm**: [Jeff Fessler (U Michigan)](https://web.eecs.umich.edu/~fessler/)
-* 13. **2:40pm**:  
+* 13. **2:40pm**: [Zhaojun Bai(UC Davis)](https://www.cs.ucdavis.edu/~bai/)
 * 20. **2:40pm**   
 
 
