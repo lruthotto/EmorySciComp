@@ -31,8 +31,8 @@ For the fall 2020, the seminar switches to online meeting. The Zoom Meeting ID i
 
 #### November  
 * 6.  **2:40pm**: [Jeff Fessler (U Michigan)](https://web.eecs.umich.edu/~fessler/)
-* 13. **2:40pm**: [Zhaojun Bai(UC Davis)](https://www.cs.ucdavis.edu/~bai/)
-* 20. **2:40pm**   
+* 13. **2:40pm**: [Zhaojun Bai (UC Davis)](https://www.cs.ucdavis.edu/~bai/)
+* 20. **2:40pm**  [Isaac Harris (Purdue)] (https://sites.google.com/site/isaacpurduemath/home)
 
 
 ### Archived Schedules
