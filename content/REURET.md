@@ -62,6 +62,5 @@ We thank the National Science Foundation and Emory College for providing the fin
 ### Summer 2018
 
 In the summer of 2018, we hosted a small group of four students from Emory, UC Merced, and U Houston. 
-The students were advised by Dr.  Ruthotto and working on new applications of deep neural networks in classification and inverse problems.
-This productive summer has led to two Honors theses. 
+The students were advised by Dr.  Ruthotto and working on new applications of deep neural networks in classification and inverse problems.This productive summer has led to two Honors theses. 
 
