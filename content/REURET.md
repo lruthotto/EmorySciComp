@@ -21,14 +21,12 @@ The site's activities are centered around a sixe-week research stay at Emory dur
 2. Summer 2022: Combining Models with Data 
 3. Summer 2023: Data Science for Social Justice
 
-
-
 This year's timeline is:
 
 - Apply by **March 1, 2021** for full consideration via the application sites for  [students](https://www.mathprograms.org/db/programs/1055) and [teachers](https://www.mathprograms.org/db/programs/1056). 
 
-- **May 24 - June 11, 2021**: Virtual pre-REU/RET phase. We will host at least one weekly meeting to help organize teams, take care of administrative items, and give participants an overview of the educational materials. 
-- **June 14 - July 30, 2021**: On-campus phase (depending on the covid situation this part may be held virtual). 
+- **May 24 - June 11, 2021**: Virtual pre-REU/RET phase. We will host one meeting per week to help organize teams, take care of administrative items, and give participants an overview of the educational materials. 
+- **June 14 - July 30, 2021**: On-campus phase (depending on covid restrictions).
 
 #### 2021 Theme: Learning From Images
 
