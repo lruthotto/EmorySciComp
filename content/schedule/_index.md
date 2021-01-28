@@ -13,6 +13,28 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Tal
 For the fall 2020, the seminar switches to online meeting. The Zoom Meeting ID is https://emory.zoom.us/j/95900585494.
 
 
+### Spring 2021 Schedule
+
+#### February
+* 5.  **1:30pm**:  
+* 12. **1:30pm**: 
+* 19. **1:30pm**:  
+* 27. **1:30pm**: 2021 Georgia Scientific Computing Symposium (GSCS) 
+
+#### March
+* 5.  **1:30pm**:  
+* 12. **1:30pm**:
+* 19. **1:30pm**: 
+* 26. **1:30pm**: 
+#### April
+* 2. **1:30pm**:  
+* 9. **1:30pm**
+* 16. **1:30pm**:  
+* 23. **1:30pm**:  
+* 30. **1:30pm**: 
+
+
+
 ### Fall 2020 Schedule
 
 #### September
