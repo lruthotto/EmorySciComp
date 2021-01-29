@@ -10,7 +10,7 @@ First year graduate students and undergraduates interested in applied math and s
 
 For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Talea Mayo](https://www.taleamayo.com), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale), or [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/).
 
-For the fall 2020, the seminar switches to online meeting. The Zoom Meeting ID is https://emory.zoom.us/j/95900585494.
+For the spring 2020, the seminar switches to online meeting. The Zoom Meeting ID is https://emory.zoom.us/j/95900585494.
 
 
 ### Spring 2021 Schedule
