@@ -10,13 +10,13 @@ First year graduate students and undergraduates interested in applied math and s
 
 For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Talea Mayo](https://www.taleamayo.com), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale), or [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/).
 
-For the spring 2020, the seminar switches to online meeting. The Zoom Meeting ID is https://emory.zoom.us/j/95900585494.
+For the spring 2021, the seminar switches to online meeting. The Zoom Meeting ID is https://emory.zoom.us/j/95900585494.
 
 
 ### Spring 2021 Schedule
 
 #### February
-* 5.  **1:30pm**:  
+* 5.  **1:30pm**: [Fang Liu (Emory Chemistry)](https://flgroup.emorychem.science)
 * 12. **1:30pm**: 
 * 19. **1:30pm**:  
 * 27. **1:30pm**: 2021 Georgia Scientific Computing Symposium (GSCS) 
@@ -30,7 +30,7 @@ For the spring 2020, the seminar switches to online meeting. The Zoom Meeting ID
 * 2. **1:30pm**:  
 * 9. **1:30pm**
 * 16. **1:30pm**:  
-* 23. **1:30pm**:  
+* 23. **1:30pm**:  [Gunnar Martinsson (UT Austin)](https://users.oden.utexas.edu/~pgm/)  
 * 30. **1:30pm**: 
 
 
