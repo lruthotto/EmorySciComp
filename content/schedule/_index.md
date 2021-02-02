@@ -31,7 +31,7 @@ For the spring 2021, the seminar switches to online meeting. The Zoom Meeting ID
 * 9. **1:30pm**
 * 16. **1:30pm**:  
 * 23. **1:30pm**:  [Gunnar Martinsson (UT Austin)](https://users.oden.utexas.edu/~pgm/)  
-* 30. **1:30pm**:  [Anthony Austin](Naval Postgraduate School)(https://faculty.nps.edu/aaustin/)
+* 30. **1:30pm**:  [Anthony Austin (Naval Postgraduate School)](https://faculty.nps.edu/aaustin/)
 
 
 
