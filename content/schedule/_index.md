@@ -25,7 +25,7 @@ For the spring 2021, the seminar switches to online meeting. The Zoom Meeting ID
 * 5.  **1:30pm**:  
 * 12. **1:30pm**:
 * 19. **1:30pm**: 
-* 26. **1:30pm**: [Lexing Ying (Stanford)] (https://web.stanford.edu/~lexing/)
+* 26. **1:30pm**: [Lexing Ying (Stanford)](https://web.stanford.edu/~lexing/)
 #### April
 * 2. **1:30pm**:  
 * 9. **1:30pm**
