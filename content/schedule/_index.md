@@ -4,7 +4,7 @@ date: 2020-08-19 T09:49:04-04:00
 draft: false
 ---
 
-Meetings of the Scientific Computing Group will be held once a week, 2:40--3:55 on Zoom. The meetings will usually be on Friday, but occasionally we will meet at other times. For specifics, see the schedule below. 
+Meetings of the Scientific Computing Group will be held once a week, 1:30--2:30 on Zoom. The meetings will usually be on Friday, but occasionally we will meet at other times. For specifics, see the schedule below. 
 
 First year graduate students and undergraduates interested in applied math and scientific computing are welcome to attend. (A presentation is not required.)
 
