@@ -18,7 +18,7 @@ For the spring 2021, the seminar switches to online meeting. The Zoom Meeting ID
 #### February
 * 5.  **1:30pm**: [Fang Liu (Emory Chemistry)](https://flgroup.emorychem.science)
 * 12. **1:30pm**: 
-* 19. **1:30pm**:  
+* 19. **1:30pm**: [Christopher Musco (NYU)](https://www.chrismusco.com/) 
 * 27. **1:30pm**: 2021 Georgia Scientific Computing Symposium (GSCS) 
 
 #### March
