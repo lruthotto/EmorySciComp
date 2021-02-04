@@ -24,7 +24,7 @@ For the spring 2021, the seminar switches to online meeting. The Zoom Meeting ID
 #### March
 * 5.  **1:30pm**:  [Michael Mahoney (UC Berkeley)](https://www.stat.berkeley.edu/~mmahoney/)
 * 12. **1:30pm**:  [Long Chen (UCI)](https://www.math.uci.edu/~chenlong/)
-* 19. **1:30pm**: 
+* 19. **1:30pm**:  [Harbir Antil (GMU)](http://math.gmu.edu/~hantil/)
 * 26. **1:30pm**:  [Lexing Ying (Stanford)](https://web.stanford.edu/~lexing/)
 #### April
 * 2. **1:30pm**:  
