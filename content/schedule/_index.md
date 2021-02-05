@@ -17,7 +17,7 @@ For the spring 2021, the seminar switches to online meeting. The Zoom Meeting ID
 
 #### February
 * 5.  **1:30pm**: [Fang Liu (Emory Chemistry)](https://flgroup.emorychem.science)
-* 12. **1:30pm**: 
+* 10. **10:00am**: [James Nagy (E-NLA stream)]
 * 19. **1:30pm**: [Christopher Musco (NYU)](https://www.chrismusco.com/) 
 * 27. **1:30pm**: 2021 Georgia Scientific Computing Symposium (GSCS) 
 
@@ -27,7 +27,7 @@ For the spring 2021, the seminar switches to online meeting. The Zoom Meeting ID
 * 19. **1:30pm**:  [Harbir Antil (GMU)](http://math.gmu.edu/~hantil/)
 * 26. **1:30pm**:  [Lexing Ying (Stanford)](https://web.stanford.edu/~lexing/)
 #### April
-* 2. **1:30pm**:  
+* 2. **1:30pm**:   [Margherita Carletti (Urbino)](https://scholar.google.it/citations?user=7ZYwSyUAAAAJ&hl=it)
 * 9. **1:30pm**:   [Petros Drineas (Purdue)](https://www.cs.purdue.edu/homes/pdrineas/)
 * 16. **1:30pm**:  [Daniel Osei-Kuffuor (LLNL)](https://people.llnl.gov/oseikuffuor1)
 * 23. **1:30pm**:  [Gunnar Martinsson (UT Austin)](https://users.oden.utexas.edu/~pgm/)  
