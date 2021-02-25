@@ -9,7 +9,7 @@ The Emory Research Experience for Undergraduates and Teachers site focuses on co
 
 The site is organized by [Lars Ruthotto](https://www.mathcs.emory.edu/~lruthot/) and [Bree Ettinger](http://www.mathcs.emory.edu/~betting/) and also involve other mentors from the Departments of Mathematics and Computer Science, including: [Joyce Ho](https://joyceho.github.io/), [Manuela Manetta](https://mannalela.wixsite.com/manuela-manetta), [Talea Mayo](https://www.taleamayo.com/), [James Nagy](http://www.mathcs.emory.edu/~nagy/), [Elizabeth Newman](http://math.emory.edu/~enewma5/), [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale/), [Yuanzhe Xi](http://www.mathcs.emory.edu/~yxi26/).
 
-[Download our flyer](img/2021_Emory_REU_RET_Flyer.pdf)
+[Download our flyer](2021_Emory_REU_RET_Flyer.pdf)
 #### Prerequisites
 
 Our site's research projects are accessible to teachers and undergraduate students with a strong background in Linear Algebra, Vector Calculus, Differential Equations, and elementary programming experience. To help participants learn other project-specific materials, our site includes a comprehensive research training plan. Our activities include professional development, a weekly lunch seminar, and social excursions in Atlanta.
