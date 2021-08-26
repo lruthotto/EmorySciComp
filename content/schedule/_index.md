@@ -13,8 +13,8 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Tal
 ### Fall 2021 Schedule
 
 #### September
-* 3. **12:30pm**
-* 10. **12:30pm**
+* 3. **12:30pm**  Group reunion and group photo
+* 10. **12:30pm** [Romeil S. Sandhu (Stony Brook)](http://www.romeilsandhu.com)
 * 17. **12:30pm**
 * 24. **12:30pm**
 
