@@ -6,6 +6,7 @@ align: "left"
 ---
 
 ### Former Postdocs
+- Bas Peters (2020-2021)
 - Boyi Yang (2015-2017)
 - Gaetano Esposito (2014-2015)
 - Leandro Gryngarten (2013-2014)
@@ -21,6 +22,7 @@ align: "left"
 - [Bora Ucar](http://perso.ens-lyon.fr/bora.ucar/) (2005--2006)
 
 ### Former Graduate Students
+- [Derek Onken](http://www.cs.emory.edu/~donken/), PhD 2021
 - Huijuan Xu, PhD 2020
 - [Alessandro Barone](https://sites.google.com/view/alessandrobarone/home), PhD 2019
 - [Samy Wu Fung](https://sites.google.com/site/samywufung/), PhD 2019
