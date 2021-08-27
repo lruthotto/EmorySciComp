@@ -16,7 +16,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Tal
 * 3. **12:30pm**  Group reunion and group photo
 * 10. **12:30pm** [Romeil S. Sandhu (Stony Brook)](http://www.romeilsandhu.com)
 * 17. **12:30pm**
-* 24. **12:30pm**
+* 24. **12:30pm** [Florian Schäfer (GT)](https://f-t-s.github.io)
 
 #### October
 * 1. **12:30pm** 
