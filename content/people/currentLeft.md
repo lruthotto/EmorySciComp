@@ -21,9 +21,9 @@ align: "left"
 - [Zdenek Strakos](http://www.cs.cas.cz/~strakos)
 
 ### Postdocs
-- Difeng Cai  
-- Elizabeth Newman
-- Bas Peters
+- [Difeng Cai](http://www.math.emory.edu/~dcai7/home2021.html)  
+- [Elizabeth Newman](http://math.emory.edu/~enewma5/)
+- [Deepanshu Verma](https://dpnshvrm.github.io)
 
 
 
