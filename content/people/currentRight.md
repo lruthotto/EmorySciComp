@@ -15,13 +15,14 @@ align: "right"
 - Kelvin Kan
 - Xingjian Li
 - [Chang Meng](https://sites.google.com/view/changmeng/home)
-- [Derek Onken](http://www.cs.emory.edu/~donken/)
+- Leonardo Molinari
+- Haley Rosso
 - Jiaqi Yang
+- Benjamin Yellin 
 - Shifan Zhao
 
 ### Master Students
 - Maenishia Simmons
-- Benjamin Yellin 
 
 ### Undergraduate Honors Students
 - William Ding
