@@ -27,7 +27,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Tal
 
 
 #### November  
-* 5.  **12:30pm**
+* 5.  **12:30pm** [James Murphy (Tufts)](https://jmurphy.math.tufts.edu/)
 * 12. **12:30pm**
 * 19. **12:30pm**  
 * 26. **12:30pm** Thanksgiving
