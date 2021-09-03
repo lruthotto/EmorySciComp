@@ -15,7 +15,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Tal
 #### September
 * 3. **12:30pm**  Group reunion and group photo
 * 10. **12:30pm** [Romeil S. Sandhu (Stony Brook)](http://www.romeilsandhu.com)
-* 17. **12:30pm**
+* 17. **12:30pm** [Irving Martinez (Emory)]
 * 24. **12:30pm** [Florian Schäfer (GT)](https://f-t-s.github.io)
 
 #### October
@@ -23,13 +23,13 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Tal
 * 8. **12:30pm**
 * 15. **12:30pm**
 * 22. **12:30pm**
-* 29. **12:30pm**
+* 29. **12:30pm** [Junyuan Lin (Loyola-Marymount)](https://sites.google.com/view/junyuanlin/home)
 
 
 #### November  
 * 5.  **12:30pm** [James Murphy (Tufts)](https://jmurphy.math.tufts.edu/)
 * 12. **12:30pm**
-* 19. **12:30pm**  
+* 19. **12:30pm** [Anuj Abhisek (UNC Charlotte)](https://sites.google.com/view/anujabhishek/home)
 * 26. **12:30pm** Thanksgiving
 
 ### Archived Schedules
