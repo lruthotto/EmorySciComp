@@ -21,7 +21,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Tal
 #### October
 * 1. **12:30pm** 
 * 8. **12:30pm** [Alex Viguerie (GSSI)](https://www.gssi.it/people/post-doc/post-doc-maths/item/11289-viguerie-alex)
-* 15. **12:30pm** [Paulina Sepúlveda Salas (Institute of Mathematics at PUCV)] (https://sites.google.com/view/ima-numerics)
+* 15. **12:30pm** [Paulina Sepulveda Salas (PUCV)](https://sites.google.com/view/ima-numerics)
 * 22. **12:30pm**
 * 29. **12:30pm** [Junyuan Lin (Loyola-Marymount)](https://sites.google.com/view/junyuanlin/home)
 
