@@ -4,7 +4,7 @@ date: 2021-08-12 T09:49:04-04:00
 draft: false
 ---
 
-Meetings of the Scientific Computing Group will be held once a week, 12:30--1:30 at N301. The meetings will usually be on Friday, but occasionally we will meet at other times. For specifics, see the schedule below. 
+Meetings of the Scientific Computing Group will be held once a week, 12:30--1:30 at W201. The meetings will usually be on Friday, but occasionally we will meet at other times. For specifics, see the schedule below. 
 
 First year graduate students and undergraduates interested in applied math and scientific computing are welcome to attend. (A presentation is not required.)
 
