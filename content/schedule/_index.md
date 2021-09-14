@@ -22,13 +22,13 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Tal
 * 1. **12:30pm** 
 * 8. **12:30pm** [Alex Viguerie (GSSI)](https://www.gssi.it/people/post-doc/post-doc-maths/item/11289-viguerie-alex)
 * 15. **12:30pm** [Paulina Sepulveda Salas (PUCV)](https://sites.google.com/view/ima-numerics)
-* 22. **12:30pm**
+* 22. **12:30pm** [Nicola Guglielmi (Gran Sasso Science Institute)](https://www.gssi.it/people/professors/lectures-maths/item/545-guglielmi-nicola)
 * 29. **12:30pm** [Junyuan Lin (Loyola-Marymount)](https://sites.google.com/view/junyuanlin/home)
 
 
 #### November  
 * 5.  **12:30pm** [James Murphy (Tufts)](https://jmurphy.math.tufts.edu/)
-* 12. **12:30pm**
+* 12. **12:30pm** [James Herring (Numerics Corp)](https://www.linkedin.com/in/james-herring-73681956)
 * 19. **12:30pm** [Anuj Abhisek (UNC Charlotte)](https://sites.google.com/view/anujabhishek/home)
 * 26. **12:30pm** Thanksgiving
 
