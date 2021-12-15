@@ -40,7 +40,7 @@ disablePathToLower=true
     weight = 4
 
 [[menu.main]]
-    url = "/REURET/"
+    url = "http://www.math.emory.edu/site/cmds-reuret/"
     name = "REU/RET"
     weight = 5
 
