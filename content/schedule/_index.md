@@ -1,14 +1,34 @@
 ---
 title: "Scientific Computing Seminar"
-date: 2021-08-12 T09:49:04-04:00
+date: 2022-02-09 T09:49:04-04:00
 draft: false
 ---
 
-Meetings of the Scientific Computing Group will be held once a week, 12:30--1:30 at W201. The meetings will usually be on Friday, but occasionally we will meet at other times. For specifics, see the schedule below. 
+Meetings of the Scientific Computing Group will be held once a week, 10:00--10:50 at W201. The meetings will usually be on Thursday, but occasionally we will meet at other times. For specifics, see the schedule below. 
 
 First year graduate students and undergraduates interested in applied math and scientific computing are welcome to attend. (A presentation is not required.)
 
 For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Talea Mayo](https://www.taleamayo.com), [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot), [Alessandro Veneziani](http://www.mathcs.emory.edu/~ale), or [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/).
+
+### Spring 2022 Schedule
+
+#### February
+* 10. **10:00am**: 
+* 17. **10:00am**: 
+* 24. **10:00pm**: 
+
+#### March
+* 3.  **10:00am**:  
+* 10. **10:00am**:  
+* 17. **10:00am**:  
+* 24. **10:00am**:  
+* 31. **10:00am**:  
+
+#### April
+* 7. **10:00am**:   
+* 14. **10:00am**:  
+* 21. **10:00am**:  
+* 28. **10:00am**:  
 
 ### Fall 2021 Schedule
 
