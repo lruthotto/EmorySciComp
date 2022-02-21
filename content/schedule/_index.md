@@ -14,15 +14,16 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Tal
 
 #### February
 * 10. **10:00am**: 
-* 17. **10:00am**: 
-* 24. **10:00am**: 
+* 17. **1:00pm**: [Mikhail Lepilov (Purdue University)]
+* 24. **10:00am**: [David Evangelista (University of Bologna)]
 
 #### March
 * 3.  **10:00am**:  
-* 10. **10:00am**:  
+* 10. **10:00am**: Spring break
 * 17. **10:00am**:  
 * 24. **10:00am**:  
-* 31. **10:00am**:  
+* 31. **10:00am**: [Spencer Bryngelson (GT)](https://comp-physics.group/)
+
 
 #### April
 * 7. **10:00am**:   
