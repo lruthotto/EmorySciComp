@@ -20,8 +20,8 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Tal
 #### March
 * 3.  **10:00am**:  
 * 10. **10:00am**: Spring break
-* 17. **10:00am**:  
-* 24. **10:00am**:  
+* 17. **10:00am**: [Alessandro Veneziani (Emory)]
+* 24. **10:00am**: [Leonardo Molinari (Emory)]
 * 31. **10:00am**: [Spencer Bryngelson (GT)](https://comp-physics.group/)
 
 
