@@ -28,7 +28,7 @@ For more information contact [Jim Nagy](http://www.mathcs.emory.edu/~nagy), [Tal
 #### April
 * 7. **10:00am**:[Leonardo Molinari (Emory)](https://scholar.google.com/citations?user=I8xsRG8AAAAJ)
 * 14. **10:00am**:  
-* 21. **10:00am**:  
+* 21. **10:00am**: [Alessio Gizzi (Roma)](http://www.multiphysica.it/)
 
 ### Fall 2021 Schedule
 
